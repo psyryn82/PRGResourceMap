@@ -13,7 +13,7 @@
 	"GridOffset": 23333.333333333332,
 	"GridSize": 1400000,
 	"ItemLink": true,
-	"KofiLink": false,
+	"KofiLink": true,
 	"NodesPerAxis": 30,
 	"PathFinder": true,
 	"PinTool": true,

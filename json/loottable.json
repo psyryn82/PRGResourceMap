@@ -567,38 +567,6 @@
                 "Weight": 1.0
             }
         ],
-        "DinoDropInventoryComponent_Mythical_Cyclops_TO_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            },
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Cyclops Eye"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
         "DinoDropInventoryComponent_Mythical_Dragon_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -657,38 +625,6 @@
                 "ForceBlueprint": 0,
                 "Items": [
                     "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            }
-        ],
-        "DinoDropInventoryComponent_Mythical_Gorgon_TO_C": [
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Mythos"
-                ],
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 0.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.0
-            },
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
-                "Items": [
-                    "Gorgon Hair"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,

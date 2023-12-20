@@ -2,9 +2,6 @@
 	"2": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootCat",
-			"AB LootPig",
 			"Bear",
 			"Cat",
 			"Chicken",
@@ -838,9 +835,6 @@
 	"5": {
 		"animals": [
 			"AAW Pig",
-			"AB LootCat",
-			"AB LootElephant",
-			"AB LootRhino",
 			"Cat",
 			"Chicken",
 			"Cow",
@@ -17412,7 +17406,6 @@
 			"Wolf",
 			"Yeti",
 			"Yeti SnowCave",
-			"Yeti TO",
 			null
 		],
 		"biomeTags": [
@@ -23513,7 +23506,6 @@
 	},
 	"17": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -23707,11 +23699,15 @@
 		"region": "",
 		"resources": {
 			"Agate": 280,
+			"Basalt": 1326,
 			"Brain Coral": 280,
 			"Fire Coral": 3326,
+			"Geode": 1326,
 			"Iridium": 280,
+			"Iron": 1326,
 			"Marble": 3326,
 			"Mineral Oil": 3326,
+			"Sandstone": 1326,
 			"Seaweed": 65654
 		},
 		"rotation": 24.2814617,
@@ -23727,7 +23723,6 @@
 	},
 	"20": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -23777,11 +23772,15 @@
 		"region": "",
 		"resources": {
 			"Agate": 280,
+			"Basalt": 1326,
 			"Brain Coral": 280,
 			"Fire Coral": 3326,
+			"Geode": 1326,
 			"Iridium": 280,
+			"Iron": 1326,
 			"Marble": 3326,
 			"Mineral Oil": 3326,
+			"Sandstone": 1326,
 			"Seaweed": 65654
 		},
 		"rotation": 44.60212,
@@ -23797,7 +23796,6 @@
 	},
 	"21": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -23847,11 +23845,15 @@
 		"region": "",
 		"resources": {
 			"Agate": 280,
+			"Basalt": 1326,
 			"Brain Coral": 280,
 			"Fire Coral": 3326,
+			"Geode": 1326,
 			"Iridium": 280,
+			"Iron": 1326,
 			"Marble": 3326,
 			"Mineral Oil": 3326,
+			"Sandstone": 1326,
 			"Seaweed": 65654
 		},
 		"rotation": 50.02259,
@@ -23867,7 +23869,6 @@
 	},
 	"22": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -23917,11 +23918,15 @@
 		"region": "",
 		"resources": {
 			"Agate": 280,
+			"Basalt": 1326,
 			"Brain Coral": 280,
 			"Fire Coral": 3326,
+			"Geode": 1326,
 			"Iridium": 280,
+			"Iron": 1326,
 			"Marble": 3326,
 			"Mineral Oil": 3326,
+			"Sandstone": 1326,
 			"Seaweed": 65654
 		},
 		"rotation": 32.9118423,
@@ -24006,7 +24011,6 @@
 	},
 	"24": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -24056,11 +24060,15 @@
 		"region": "",
 		"resources": {
 			"Agate": 280,
+			"Basalt": 1326,
 			"Brain Coral": 280,
 			"Fire Coral": 3326,
+			"Geode": 1326,
 			"Iridium": 280,
+			"Iron": 1326,
 			"Marble": 3326,
 			"Mineral Oil": 3326,
+			"Sandstone": 1326,
 			"Seaweed": 65654
 		},
 		"rotation": -35.9670334,
@@ -24146,10 +24154,7 @@
 	},
 	"26": {
 		"animals": [
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -25605,10 +25610,7 @@
 	},
 	"27": {
 		"animals": [
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -30341,10 +30343,7 @@
 	},
 	"30": {
 		"animals": [
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -36517,10 +36516,7 @@
 	},
 	"33": {
 		"animals": [
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -40292,10 +40288,6 @@
 	"34": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -45027,1634 +45019,9 @@
 		"worldX": 6348927,
 		"worldY": 302741.5
 	},
-	"35": {
-		"animals": [
-			"AAW Pig",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
-			"Bee",
-			"Catfish",
-			"Cobra",
-			"Cod",
-			"Cow",
-			"Crow",
-			"Horse",
-			"Lion",
-			"Monkey",
-			"Pig",
-			"Rabbit",
-			"Rattlesnake",
-			"Seagull",
-			"Sheep",
-			"Tiger",
-			"Turtle"
-		],
-		"biomeTags": [
-			"EasternTemperate",
-			"EasternTemperateMountainPeak",
-			"EasternTropics",
-			"EasternTropicsWindy",
-			"Temperate",
-			"Tropical",
-			"Tropics"
-		],
-		"biomes": [
-			{
-				"gps": [
-					66.32447052001953,
-					78.70792388916016
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.339599609375,
-					78.10171508789062
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.62115478515625,
-					79.0187759399414
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.63461303710938,
-					78.41190338134766
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.64983367919922,
-					77.80561828613281
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.93131256103516,
-					78.72276306152344
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.94485473632812,
-					78.11581420898438
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					66.96044158935547,
-					77.50917053222656
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.24154663085938,
-					78.42667388916016
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.2541275024414,
-					77.82056427001953
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.26969909667969,
-					77.21392822265625
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.55081176757812,
-					78.13141632080078
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.54647064208984,
-					78.74554443359375
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.56825256347656,
-					77.5280990600586
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.58375549316406,
-					76.9234390258789
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.83621215820312,
-					79.0497055053711
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.85040283203125,
-					78.43638610839844
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					67.86408233642578,
-					77.83755493164062
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					67.87922668457031,
-					77.2330322265625
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					67.88875579833984,
-					76.62301635742188
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.12110137939453,
-					79.96644592285156
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.13211059570312,
-					79.35965728759766
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.14708709716797,
-					78.74716186523438
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.16023254394531,
-					78.14775848388672
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.17495727539062,
-					77.54217529296875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.18384552001953,
-					76.93211364746094
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.19801330566406,
-					76.32777404785156
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.41722869873047,
-					80.27664184570312
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.42826080322266,
-					79.66985321044922
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.4438705444336,
-					79.05815887451172
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.4564437866211,
-					78.45803833007812
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.47042846679688,
-					77.85176849365234
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.47835540771484,
-					77.2406234741211
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.49311828613281,
-					76.63687133789062
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.5059814453125,
-					76.03376770019531
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.72303009033203,
-					79.98197174072266
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.73798370361328,
-					79.37203216552734
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.75481414794922,
-					78.76560974121094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.766357421875,
-					78.16181182861328
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					68.7771224975586,
-					77.5535659790039
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.78762817382812,
-					76.94537353515625
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.80107116699219,
-					76.34286499023438
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.81625366210938,
-					75.73754119873047
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					68.83230590820312,
-					78.38847351074219
-				],
-				"name": "Eastern Temperate Mountain Peak",
-				"tags": [
-					"Temperate",
-					"EasternTemperate",
-					"EasternTemperateMountainPeak"
-				],
-				"temp": [
-					-9,
-					32
-				]
-			},
-			{
-				"gps": [
-					69.01862335205078,
-					80.29161834716797
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.03520202636719,
-					79.6844711303711
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.0487289428711,
-					79.078369140625
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.062255859375,
-					78.47175598144531
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.07561492919922,
-					77.86656951904297
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.09344482421875,
-					76.65341186523438
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.08638763427734,
-					77.25831604003906
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.11135864257812,
-					76.0466537475586
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.12604522705078,
-					75.44181060791016
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.3322982788086,
-					79.99315643310547
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.34651184082031,
-					79.38888549804688
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.35838317871094,
-					78.7819595336914
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.37151336669922,
-					78.176513671875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.3902816772461,
-					76.96435546875
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.38613891601562,
-					77.5711441040039
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.40372467041016,
-					76.3572006225586
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.42115783691406,
-					75.75088500976562
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.64224243164062,
-					79.69733428955078
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.65460205078125,
-					79.09223175048828
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.66765594482422,
-					78.48670196533203
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.6829833984375,
-					77.88208770751953
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.6866455078125,
-					77.27478790283203
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.70056915283203,
-					76.66814422607422
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.7135238647461,
-					76.06144714355469
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.93658447265625,
-					80.00565338134766
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.95256805419922,
-					79.40116119384766
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.96387481689453,
-					78.79698181152344
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					69.98351287841797,
-					77.58574676513672
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.97931671142578,
-					78.1925277709961
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					69.99693298339844,
-					76.97856140136719
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.01036834716797,
-					76.37237548828125
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.24691772460938,
-					79.70947265625
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.2608871459961,
-					79.10689544677734
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.27924346923828,
-					77.8956069946289
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.27519989013672,
-					78.50245666503906
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.29378509521484,
-					77.2895278930664
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.30673217773438,
-					76.68280792236328
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.54247283935547,
-					80.0190658569336
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.55522918701172,
-					79.41521453857422
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.5703125,
-					78.81157684326172
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.57559967041016,
-					78.20602416992188
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.58953094482422,
-					77.59939575195312
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.60357666015625,
-					76.99378967285156
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.87247467041016,
-					78.5169906616211
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.8664321899414,
-					79.12174987792969
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					70.8858871459961,
-					77.9098129272461
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					71.17704010009766,
-					78.82522583007812
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"EasternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": 77.6,
-				"long": 69,
-				"name": "Vixen's Cove"
-			}
-		],
-		"grid": "E1",
-		"homeServer": false,
-		"id": 35,
-		"isControlPoint": false,
-		"islandHeight": 204000,
-		"islandPoints": 35,
-		"islandWidth": 204000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_M_ET",
-		"region": "",
-		"resources": {
-			"Agate": 18071,
-			"Amethyst": 12,
-			"Anthracite": 52,
-			"Ash": 4948,
-			"Bamboo": 6644,
-			"Bark": 3359,
-			"Blackberry": 2582,
-			"Bone Chips": 1,
-			"Coquina": 18907,
-			"Elderberry": 20057,
-			"Fir": 35,
-			"FreshWater": 3,
-			"Fronds": 4649,
-			"Hemp": 281436,
-			"Iron": 18037,
-			"Licorice": 636,
-			"Maps": 24,
-			"Mint": 3381,
-			"Pine": 1265,
-			"Poplar": 50,
-			"Resin": 3359,
-			"Schisandra": 14630,
-			"Straw": 41677,
-			"Syrup": 65,
-			"Twigs": 2939
-		},
-		"rotation": 43.667778,
-		"sublevels": [
-			"Mnt_M",
-			"Mnt_M_Far_03",
-			"Mnt_M_Farthest_03",
-			"Mnt_M_Near_03",
-			"Mnt_M_Marine_Cold_Near"
-		],
-		"worldX": 5916432.5,
-		"worldY": 761178.5
-	},
 	"36": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Catfish",
 			"Chicken",
@@ -47869,9 +46236,6 @@
 	"37": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -49467,9 +47831,10 @@
 			"Oak": 10146,
 			"Quartz": 704,
 			"Resin": 1402,
+			"Sandstone": 587,
 			"Sea Grapes": 165,
 			"Sea Salt": 477,
-			"Slate": 21140,
+			"Slate": 20553,
 			"Straw": 1226,
 			"Sulfur": 585,
 			"Thyme": 655,
@@ -50959,8 +49324,7 @@
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -55473,7 +53837,8 @@
 			"Nitre": 217,
 			"Oak": 1048,
 			"Resin": 9906,
-			"Slate": 5882,
+			"Sandstone": 2296,
+			"Slate": 3586,
 			"Straw": 16656,
 			"Twigs": 7272,
 			"Wild Beans": 280
@@ -55492,10 +53857,6 @@
 	"42": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Catfish",
 			"Chicken",
@@ -59282,6 +57643,7 @@
 	},
 	"44": {
 		"animals": [
+			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -63290,10 +61652,6 @@
 	"46": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -65085,10 +63443,6 @@
 	"47": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -67536,10 +65890,6 @@
 	"48": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -70499,16 +68849,13 @@
 	"50": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -72600,16 +70947,13 @@
 	"51": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -75777,8 +74121,7 @@
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -77721,8 +76064,7 @@
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -78903,6 +77245,7 @@
 	},
 	"54": {
 		"animals": [
+			"AAW Pig",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -81624,6 +79967,7 @@
 	},
 	"55": {
 		"animals": [
+			"AAW Pig",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -84790,16 +83134,13 @@
 	"56": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -87931,6 +86272,7 @@
 			"Basalt": 4502,
 			"Brimstone": 1,
 			"Chert": 3672,
+			"Fir": 926,
 			"Geode": 3883,
 			"Granite": 4875,
 			"Iridium": 602,
@@ -87940,7 +86282,6 @@
 			"Marble": 5191,
 			"Naphtha": 104,
 			"Opal": 768,
-			"Pine": 926,
 			"Quartz": 1456,
 			"Resin": 926,
 			"Slate": 602
@@ -87958,6 +86299,7 @@
 	},
 	"57": {
 		"animals": [
+			"AAW Pig",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -88920,16 +87262,13 @@
 	"58": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -89861,6 +88200,7 @@
 			"Basalt": 2305,
 			"Brimstone": 1,
 			"Crude Oil": 40,
+			"Fir": 235,
 			"Geode": 1893,
 			"Granite": 3521,
 			"Iridium": 16,
@@ -89868,7 +88208,6 @@
 			"Lignite": 463,
 			"Limestone": 875,
 			"Maps": 16,
-			"Pine": 235,
 			"Resin": 235,
 			"Sandstone": 1910,
 			"Silver": 651,
@@ -89888,16 +88227,13 @@
 	"59": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
 			"Rabbit",
 			"Seagull",
 			"Wolf",
-			"Yeti",
-			"Yeti TO"
+			"Yeti"
 		],
 		"biomeTags": [
 			"Polar",
@@ -90963,6 +89299,7 @@
 			"Bark": 374,
 			"Basalt": 8602,
 			"Brimstone": 1,
+			"Fir": 374,
 			"Geode": 7161,
 			"Granite": 3061,
 			"Iron": 7459,
@@ -90970,7 +89307,6 @@
 			"Limestone": 2516,
 			"Maps": 45,
 			"Marble": 18,
-			"Pine": 374,
 			"Resin": 374,
 			"Sandstone": 4082,
 			"Silver": 2538,
@@ -92517,11 +90853,6 @@
 	"61": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cow",
@@ -94149,11 +92480,6 @@
 	"62": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Giraffe",
@@ -95015,10 +93341,6 @@
 	"63": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -97423,11 +95745,6 @@
 	"65": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Catfish",
 			"Chicken",
@@ -100454,7 +98771,7 @@
 			"Chert": 266,
 			"Cilantro": 1645,
 			"Copper": 365,
-			"Coquina": 17210,
+			"Coquina": 14914,
 			"Crude Oil": 36,
 			"FreshWater": 10,
 			"Fronds": 1871,
@@ -100469,6 +98786,7 @@
 			"Parsley": 9026,
 			"Quartz": 242,
 			"Resin": 1549,
+			"Sandstone": 2296,
 			"Slate": 365,
 			"Straw": 18560,
 			"Sugarcane": 1366
@@ -100487,10 +98805,6 @@
 	"66": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Bee",
 			"Catfish",
@@ -106462,10 +104776,6 @@
 	"68": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Bee",
 			"Catfish",
@@ -108398,11 +106708,6 @@
 	"69": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -110552,7 +108857,7 @@
 			"Honey": 40,
 			"Iron": 18392,
 			"Jute": 87705,
-			"Limestone": 33101,
+			"Limestone": 32210,
 			"Maps": 6,
 			"Nitre": 691,
 			"Oak": 16371,
@@ -110561,6 +108866,7 @@
 			"Resin": 15104,
 			"Roots": 2808,
 			"Rosemary": 65114,
+			"Sandstone": 891,
 			"Sea Grapes": 7413,
 			"Slate": 168,
 			"Straw": 73601,
@@ -110580,10 +108886,6 @@
 	"70": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -110614,7 +108916,7 @@
 			{
 				"gps": [
 					35.10665512084961,
-					43.37174987792969
+					43.371742248535156
 				],
 				"name": "Equator",
 				"tags": [
@@ -110629,7 +108931,7 @@
 			{
 				"gps": [
 					35.215084075927734,
-					43.785400390625
+					43.785396575927734
 				],
 				"name": "Equator",
 				"tags": [
@@ -110644,7 +108946,7 @@
 			{
 				"gps": [
 					35.32417297363281,
-					44.20154571533203
+					44.201534271240234
 				],
 				"name": "Equator",
 				"tags": [
@@ -110659,7 +108961,7 @@
 			{
 				"gps": [
 					35.43280029296875,
-					44.61591720581055
+					44.61590576171875
 				],
 				"name": "Equator",
 				"tags": [
@@ -110674,7 +108976,7 @@
 			{
 				"gps": [
 					35.519386291503906,
-					43.26361846923828
+					43.26361083984375
 				],
 				"name": "Equator",
 				"tags": [
@@ -110689,7 +108991,7 @@
 			{
 				"gps": [
 					35.54317092895508,
-					45.030860900878906
+					45.030853271484375
 				],
 				"name": "Equator",
 				"tags": [
@@ -110704,7 +109006,7 @@
 			{
 				"gps": [
 					35.62781524658203,
-					43.677268981933594
+					43.67726516723633
 				],
 				"name": "Equator",
 				"tags": [
@@ -110719,7 +109021,7 @@
 			{
 				"gps": [
 					35.6515998840332,
-					45.444515228271484
+					45.44450759887695
 				],
 				"name": "Equator",
 				"tags": [
@@ -110734,7 +109036,7 @@
 			{
 				"gps": [
 					35.736900329589844,
-					44.09341049194336
+					44.09340286254883
 				],
 				"name": "Equator",
 				"tags": [
@@ -110749,7 +109051,7 @@
 			{
 				"gps": [
 					35.760684967041016,
-					45.860652923583984
+					45.86064529418945
 				],
 				"name": "Equator",
 				"tags": [
@@ -110764,7 +109066,7 @@
 			{
 				"gps": [
 					35.84553146362305,
-					44.50777816772461
+					44.50777053833008
 				],
 				"name": "Equator",
 				"tags": [
@@ -110779,7 +109081,7 @@
 			{
 				"gps": [
 					35.932212829589844,
-					43.155460357666016
+					43.15544891357422
 				],
 				"name": "Equator",
 				"tags": [
@@ -110794,7 +109096,7 @@
 			{
 				"gps": [
 					35.95588684082031,
-					44.922725677490234
+					44.92272186279297
 				],
 				"name": "Equator",
 				"tags": [
@@ -110809,7 +109111,7 @@
 			{
 				"gps": [
 					36.04065704345703,
-					43.56910705566406
+					43.56909942626953
 				],
 				"name": "Equator",
 				"tags": [
@@ -110824,7 +109126,7 @@
 			{
 				"gps": [
 					36.0643310546875,
-					45.33637619018555
+					45.33637237548828
 				],
 				"name": "Equator",
 				"tags": [
@@ -110839,7 +109141,7 @@
 			{
 				"gps": [
 					36.149742126464844,
-					43.985252380371094
+					43.9852409362793
 				],
 				"name": "Equator",
 				"tags": [
@@ -110854,7 +109156,7 @@
 			{
 				"gps": [
 					36.17341613769531,
-					45.75252151489258
+					45.75251388549805
 				],
 				"name": "Equator",
 				"tags": [
@@ -110869,7 +109171,7 @@
 			{
 				"gps": [
 					36.258358001708984,
-					44.399620056152344
+					44.39960861206055
 				],
 				"name": "Equator",
 				"tags": [
@@ -110884,7 +109186,7 @@
 			{
 				"gps": [
 					36.28202819824219,
-					46.166893005371094
+					46.16688537597656
 				],
 				"name": "Equator",
 				"tags": [
@@ -110899,7 +109201,7 @@
 			{
 				"gps": [
 					36.36872863769531,
-					44.8145637512207
+					44.81455612182617
 				],
 				"name": "Equator",
 				"tags": [
@@ -110914,7 +109216,7 @@
 			{
 				"gps": [
 					36.45645523071289,
-					43.460105895996094
+					43.46010208129883
 				],
 				"name": "Equator",
 				"tags": [
@@ -110929,7 +109231,7 @@
 			{
 				"gps": [
 					36.4771728515625,
-					45.22821807861328
+					45.22821044921875
 				],
 				"name": "Equator",
 				"tags": [
@@ -110944,7 +109246,7 @@
 			{
 				"gps": [
 					36.56554412841797,
-					43.87624740600586
+					43.876243591308594
 				],
 				"name": "Equator",
 				"tags": [
@@ -110959,7 +109261,7 @@
 			{
 				"gps": [
 					36.58625793457031,
-					45.64435958862305
+					45.64434814453125
 				],
 				"name": "Equator",
 				"tags": [
@@ -110974,7 +109276,7 @@
 			{
 				"gps": [
 					36.674171447753906,
-					44.290618896484375
+					44.29061508178711
 				],
 				"name": "Equator",
 				"tags": [
@@ -110989,7 +109291,7 @@
 			{
 				"gps": [
 					36.69487380981445,
-					46.05873107910156
+					46.058719635009766
 				],
 				"name": "Equator",
 				"tags": [
@@ -111004,7 +109306,7 @@
 			{
 				"gps": [
 					36.783416748046875,
-					44.70589065551758
+					44.70588684082031
 				],
 				"name": "Equator",
 				"tags": [
@@ -111019,7 +109321,7 @@
 			{
 				"gps": [
 					36.891841888427734,
-					45.11954116821289
+					45.119537353515625
 				],
 				"name": "Equator",
 				"tags": [
@@ -111034,7 +109336,7 @@
 			{
 				"gps": [
 					37.00092697143555,
-					45.53568649291992
+					45.53567886352539
 				],
 				"name": "Equator",
 				"tags": [
@@ -111049,7 +109351,7 @@
 			{
 				"gps": [
 					37.10955810546875,
-					45.950050354003906
+					45.95004653930664
 				],
 				"name": "Equator",
 				"tags": [
@@ -111064,7 +109366,7 @@
 			{
 				"gps": [
 					37.19624328613281,
-					44.59772872924805
+					44.597721099853516
 				],
 				"name": "Equator",
 				"tags": [
@@ -111079,7 +109381,7 @@
 			{
 				"gps": [
 					37.304683685302734,
-					45.011383056640625
+					45.011375427246094
 				],
 				"name": "Equator",
 				"tags": [
@@ -111094,7 +109396,7 @@
 			{
 				"gps": [
 					37.41376876831055,
-					45.427520751953125
+					45.427513122558594
 				],
 				"name": "Equator",
 				"tags": [
@@ -111109,7 +109411,7 @@
 			{
 				"gps": [
 					37.52239990234375,
-					45.84189224243164
+					45.84188461303711
 				],
 				"name": "Equator",
 				"tags": [
@@ -111124,7 +109426,7 @@
 			{
 				"gps": [
 					37.60905838012695,
-					44.48955154418945
+					44.489540100097656
 				],
 				"name": "Equator",
 				"tags": [
@@ -111139,7 +109441,7 @@
 			{
 				"gps": [
 					37.71748352050781,
-					44.903202056884766
+					44.90319061279297
 				],
 				"name": "Equator",
 				"tags": [
@@ -111154,7 +109456,7 @@
 			{
 				"gps": [
 					37.82657241821289,
-					45.319339752197266
+					45.319332122802734
 				],
 				"name": "Equator",
 				"tags": [
@@ -111169,7 +109471,7 @@
 			{
 				"gps": [
 					37.93519973754883,
-					45.73371124267578
+					45.73370361328125
 				],
 				"name": "Equator",
 				"tags": [
@@ -111184,7 +109486,7 @@
 			{
 				"gps": [
 					38.02188491821289,
-					44.381385803222656
+					44.381378173828125
 				],
 				"name": "Equator",
 				"tags": [
@@ -111199,7 +109501,7 @@
 			{
 				"gps": [
 					38.13032913208008,
-					44.795040130615234
+					44.7950325012207
 				],
 				"name": "Equator",
 				"tags": [
@@ -111214,7 +109516,7 @@
 			{
 				"gps": [
 					38.23941421508789,
-					45.211177825927734
+					45.21117401123047
 				],
 				"name": "Equator",
 				"tags": [
@@ -111229,7 +109531,7 @@
 			{
 				"gps": [
 					38.348026275634766,
-					45.62554931640625
+					45.62554168701172
 				],
 				"name": "Equator",
 				"tags": [
@@ -111244,7 +109546,7 @@
 			{
 				"gps": [
 					38.437957763671875,
-					44.2723503112793
+					44.272342681884766
 				],
 				"name": "Equator",
 				"tags": [
@@ -111259,7 +109561,7 @@
 			{
 				"gps": [
 					38.54638671875,
-					44.685997009277344
+					44.68599319458008
 				],
 				"name": "Equator",
 				"tags": [
@@ -111274,7 +109576,7 @@
 			{
 				"gps": [
 					38.65547180175781,
-					45.102142333984375
+					45.102134704589844
 				],
 				"name": "Equator",
 				"tags": [
@@ -111289,7 +109591,7 @@
 			{
 				"gps": [
 					38.764102935791016,
-					45.51651382446289
+					45.51650619506836
 				],
 				"name": "Equator",
 				"tags": [
@@ -111304,7 +109606,7 @@
 			{
 				"gps": [
 					38.85078430175781,
-					44.164188385009766
+					44.16417694091797
 				],
 				"name": "Equator",
 				"tags": [
@@ -111319,7 +109621,7 @@
 			{
 				"gps": [
 					38.872257232666016,
-					45.929141998291016
+					45.92913818359375
 				],
 				"name": "Equator",
 				"tags": [
@@ -111334,7 +109636,7 @@
 			{
 				"gps": [
 					38.959228515625,
-					44.57783889770508
+					44.57783126831055
 				],
 				"name": "Equator",
 				"tags": [
@@ -111349,7 +109651,7 @@
 			{
 				"gps": [
 					38.980499267578125,
-					46.3420524597168
+					46.342041015625
 				],
 				"name": "Equator",
 				"tags": [
@@ -111364,7 +109666,7 @@
 			{
 				"gps": [
 					39.06831359863281,
-					44.993980407714844
+					44.99397277832031
 				],
 				"name": "Equator",
 				"tags": [
@@ -111379,7 +109681,7 @@
 			{
 				"gps": [
 					39.089073181152344,
-					46.75654983520508
+					46.75654220581055
 				],
 				"name": "Equator",
 				"tags": [
@@ -111394,7 +109696,7 @@
 			{
 				"gps": [
 					39.17692947387695,
-					45.40835189819336
+					45.40834426879883
 				],
 				"name": "Equator",
 				"tags": [
@@ -111409,7 +109711,7 @@
 			{
 				"gps": [
 					39.285099029541016,
-					45.820980072021484
+					45.82097244262695
 				],
 				"name": "Equator",
 				"tags": [
@@ -111424,7 +109726,7 @@
 			{
 				"gps": [
 					39.393341064453125,
-					46.23388671875
+					46.23387908935547
 				],
 				"name": "Equator",
 				"tags": [
@@ -111439,7 +109741,7 @@
 			{
 				"gps": [
 					39.501914978027344,
-					46.64838790893555
+					46.64838409423828
 				],
 				"name": "Equator",
 				"tags": [
@@ -111454,7 +109756,7 @@
 			{
 				"gps": [
 					39.59051513671875,
-					45.299991607666016
+					45.29998779296875
 				],
 				"name": "Equator",
 				"tags": [
@@ -111469,7 +109771,7 @@
 			{
 				"gps": [
 					39.61014175415039,
-					47.06129837036133
+					47.06128692626953
 				],
 				"name": "Equator",
 				"tags": [
@@ -111484,7 +109786,7 @@
 			{
 				"gps": [
 					39.69868850708008,
-					45.71261978149414
+					45.712615966796875
 				],
 				"name": "Equator",
 				"tags": [
@@ -111499,7 +109801,7 @@
 			{
 				"gps": [
 					39.71858596801758,
-					47.4752082824707
+					47.47520446777344
 				],
 				"name": "Equator",
 				"tags": [
@@ -111525,7 +109827,7 @@
 			{
 				"gps": [
 					39.80693054199219,
-					46.125526428222656
+					46.12552261352539
 				],
 				"name": "Equator",
 				"tags": [
@@ -111540,7 +109842,7 @@
 			{
 				"gps": [
 					39.82740020751953,
-					47.890533447265625
+					47.89052963256836
 				],
 				"name": "Equator",
 				"tags": [
@@ -111566,7 +109868,7 @@
 			{
 				"gps": [
 					39.91548538208008,
-					46.54003143310547
+					46.54002380371094
 				],
 				"name": "Equator",
 				"tags": [
@@ -111581,7 +109883,7 @@
 			{
 				"gps": [
 					39.93587112426758,
-					48.30453872680664
+					48.304527282714844
 				],
 				"name": "Equator",
 				"tags": [
@@ -111596,7 +109898,7 @@
 			{
 				"gps": [
 					40.00410079956055,
-					45.19163513183594
+					45.191627502441406
 				],
 				"name": "Equator",
 				"tags": [
@@ -111611,7 +109913,7 @@
 			{
 				"gps": [
 					40.02372741699219,
-					46.952938079833984
+					46.95293426513672
 				],
 				"name": "Equator",
 				"tags": [
@@ -111626,7 +109928,7 @@
 			{
 				"gps": [
 					40.11227035522461,
-					45.60426330566406
+					45.60425567626953
 				],
 				"name": "Equator",
 				"tags": [
@@ -111641,7 +109943,7 @@
 			{
 				"gps": [
 					40.132171630859375,
-					47.36685562133789
+					47.366844177246094
 				],
 				"name": "Equator",
 				"tags": [
@@ -111656,7 +109958,7 @@
 			{
 				"gps": [
 					40.22051239013672,
-					46.01716995239258
+					46.01716232299805
 				],
 				"name": "Equator",
 				"tags": [
@@ -111671,7 +109973,7 @@
 			{
 				"gps": [
 					40.24098587036133,
-					47.78218078613281
+					47.782169342041016
 				],
 				"name": "Equator",
 				"tags": [
@@ -111686,7 +109988,7 @@
 			{
 				"gps": [
 					40.329071044921875,
-					46.43167495727539
+					46.43166732788086
 				],
 				"name": "Equator",
 				"tags": [
@@ -111701,7 +110003,7 @@
 			{
 				"gps": [
 					40.349456787109375,
-					48.1961784362793
+					48.19617462158203
 				],
 				"name": "Equator",
 				"tags": [
@@ -111716,7 +110018,7 @@
 			{
 				"gps": [
 					40.418243408203125,
-					45.083133697509766
+					45.0831298828125
 				],
 				"name": "Equator",
 				"tags": [
@@ -111731,7 +110033,7 @@
 			{
 				"gps": [
 					40.437313079833984,
-					46.844581604003906
+					46.844573974609375
 				],
 				"name": "Equator",
 				"tags": [
@@ -111746,7 +110048,7 @@
 			{
 				"gps": [
 					40.45797348022461,
-					48.61039352416992
+					48.610389709472656
 				],
 				"name": "Equator",
 				"tags": [
@@ -111761,7 +110063,7 @@
 			{
 				"gps": [
 					40.526397705078125,
-					45.49576187133789
+					45.495758056640625
 				],
 				"name": "Equator",
 				"tags": [
@@ -111776,7 +110078,7 @@
 			{
 				"gps": [
 					40.54575729370117,
-					47.25849533081055
+					47.25849151611328
 				],
 				"name": "Equator",
 				"tags": [
@@ -111791,7 +110093,7 @@
 			{
 				"gps": [
 					40.56660079956055,
-					49.025001525878906
+					49.02499771118164
 				],
 				"name": "Equator",
 				"tags": [
@@ -111806,7 +110108,7 @@
 			{
 				"gps": [
 					40.6346435546875,
-					45.90867233276367
+					45.90866470336914
 				],
 				"name": "Equator",
 				"tags": [
@@ -111821,7 +110123,7 @@
 			{
 				"gps": [
 					40.654571533203125,
-					47.67382049560547
+					47.6738166809082
 				],
 				"name": "Equator",
 				"tags": [
@@ -111836,7 +110138,7 @@
 			{
 				"gps": [
 					40.675357818603516,
-					49.44010543823242
+					49.440101623535156
 				],
 				"name": "Equator",
 				"tags": [
@@ -111851,7 +110153,7 @@
 			{
 				"gps": [
 					40.74628829956055,
-					46.32407760620117
+					46.32406997680664
 				],
 				"name": "Equator",
 				"tags": [
@@ -111865,7 +110167,7 @@
 			{
 				"gps": [
 					40.76304244995117,
-					48.08782196044922
+					48.08781433105469
 				],
 				"name": "Equator",
 				"tags": [
@@ -111880,7 +110182,7 @@
 			{
 				"gps": [
 					40.83088684082031,
-					44.97502136230469
+					44.975013732910156
 				],
 				"name": "Equator",
 				"tags": [
@@ -111895,7 +110197,7 @@
 			{
 				"gps": [
 					40.85380172729492,
-					46.734249114990234
+					46.73424530029297
 				],
 				"name": "Equator",
 				"tags": [
@@ -111909,7 +110211,7 @@
 			{
 				"gps": [
 					40.871559143066406,
-					48.50204086303711
+					48.50202941894531
 				],
 				"name": "Equator",
 				"tags": [
@@ -111924,7 +110226,7 @@
 			{
 				"gps": [
 					40.93904113769531,
-					45.38765335083008
+					45.38764572143555
 				],
 				"name": "Equator",
 				"tags": [
@@ -111939,7 +110241,7 @@
 			{
 				"gps": [
 					40.96321487426758,
-					47.151607513427734
+					47.1515998840332
 				],
 				"name": "Equator",
 				"tags": [
@@ -111953,7 +110255,7 @@
 			{
 				"gps": [
 					40.980186462402344,
-					48.91664505004883
+					48.9166374206543
 				],
 				"name": "Equator",
 				"tags": [
@@ -111968,7 +110270,7 @@
 			{
 				"gps": [
 					41.04728698730469,
-					45.80055618286133
+					45.8005485534668
 				],
 				"name": "Equator",
 				"tags": [
@@ -111983,7 +110285,7 @@
 			{
 				"gps": [
 					41.067344665527344,
-					47.56562042236328
+					47.565616607666016
 				],
 				"name": "Equator",
 				"tags": [
@@ -111998,7 +110300,7 @@
 			{
 				"gps": [
 					41.08894348144531,
-					49.33175277709961
+					49.33174133300781
 				],
 				"name": "Equator",
 				"tags": [
@@ -112013,7 +110315,7 @@
 			{
 				"gps": [
 					41.161170959472656,
-					46.21269226074219
+					46.212684631347656
 				],
 				"name": "Equator",
 				"tags": [
@@ -112027,7 +110329,7 @@
 			{
 				"gps": [
 					41.17580032348633,
-					47.979618072509766
+					47.979610443115234
 				],
 				"name": "Equator",
 				"tags": [
@@ -112042,7 +110344,7 @@
 			{
 				"gps": [
 					41.19828796386719,
-					49.74652099609375
+					49.74651336669922
 				],
 				"name": "Equator",
 				"tags": [
@@ -112057,7 +110359,7 @@
 			{
 				"gps": [
 					41.26944351196289,
-					46.62574005126953
+					46.625732421875
 				],
 				"name": "Equator",
 				"tags": [
@@ -112071,7 +110373,7 @@
 			{
 				"gps": [
 					41.28629684448242,
-					48.39222717285156
+					48.39221954345703
 				],
 				"name": "Equator",
 				"tags": [
@@ -112086,7 +110388,7 @@
 			{
 				"gps": [
 					41.30961227416992,
-					50.1603889465332
+					50.16038513183594
 				],
 				"name": "Equator",
 				"tags": [
@@ -112101,7 +110403,7 @@
 			{
 				"gps": [
 					41.35528564453125,
-					45.27859878540039
+					45.278594970703125
 				],
 				"name": "Equator",
 				"tags": [
@@ -112116,7 +110418,7 @@
 			{
 				"gps": [
 					41.37665557861328,
-					47.04248809814453
+					47.042484283447266
 				],
 				"name": "Equator",
 				"tags": [
@@ -112130,7 +110432,7 @@
 			{
 				"gps": [
 					41.39497375488281,
-					48.807029724121094
+					48.80702209472656
 				],
 				"name": "Equator",
 				"tags": [
@@ -112145,7 +110447,7 @@
 			{
 				"gps": [
 					41.418128967285156,
-					50.574581146240234
+					50.57457733154297
 				],
 				"name": "Equator",
 				"tags": [
@@ -112160,7 +110462,7 @@
 			{
 				"gps": [
 					41.46352767944336,
-					45.69150924682617
+					45.691497802734375
 				],
 				"name": "Equator",
 				"tags": [
@@ -112175,7 +110477,7 @@
 			{
 				"gps": [
 					41.48524475097656,
-					47.456722259521484
+					47.45671463012695
 				],
 				"name": "Equator",
 				"tags": [
@@ -112189,7 +110491,7 @@
 			{
 				"gps": [
 					41.5035285949707,
-					49.22135925292969
+					49.22134780883789
 				],
 				"name": "Equator",
 				"tags": [
@@ -112204,7 +110506,7 @@
 			{
 				"gps": [
 					41.57188415527344,
-					46.1049690246582
+					46.10496520996094
 				],
 				"name": "Equator",
 				"tags": [
@@ -112219,7 +110521,7 @@
 			{
 				"gps": [
 					41.59224319458008,
-					47.869659423828125
+					47.86964797973633
 				],
 				"name": "Equator",
 				"tags": [
@@ -112234,7 +110536,7 @@
 			{
 				"gps": [
 					41.61186981201172,
-					49.63816452026367
+					49.63815689086914
 				],
 				"name": "Equator",
 				"tags": [
@@ -112249,7 +110551,7 @@
 			{
 				"gps": [
 					41.68011474609375,
-					46.517879486083984
+					46.51787185668945
 				],
 				"name": "Equator",
 				"tags": [
@@ -112264,7 +110566,7 @@
 			{
 				"gps": [
 					41.700714111328125,
-					48.283653259277344
+					48.28364562988281
 				],
 				"name": "Equator",
 				"tags": [
@@ -112279,7 +110581,7 @@
 			{
 				"gps": [
 					41.723114013671875,
-					50.052059173583984
+					50.05205154418945
 				],
 				"name": "Equator",
 				"tags": [
@@ -112294,7 +110596,7 @@
 			{
 				"gps": [
 					41.79264450073242,
-					46.93349838256836
+					46.933494567871094
 				],
 				"name": "Equator",
 				"tags": [
@@ -112308,7 +110610,7 @@
 			{
 				"gps": [
 					41.80938720703125,
-					48.69845199584961
+					48.69844436645508
 				],
 				"name": "Equator",
 				"tags": [
@@ -112323,7 +110625,7 @@
 			{
 				"gps": [
 					41.831626892089844,
-					50.466243743896484
+					50.46623992919922
 				],
 				"name": "Equator",
 				"tags": [
@@ -112338,7 +110640,7 @@
 			{
 				"gps": [
 					41.90122604370117,
-					47.34773635864258
+					47.34772872924805
 				],
 				"name": "Equator",
 				"tags": [
@@ -112352,7 +110654,7 @@
 			{
 				"gps": [
 					41.917945861816406,
-					49.11278533935547
+					49.11277770996094
 				],
 				"name": "Equator",
 				"tags": [
@@ -112367,7 +110669,7 @@
 			{
 				"gps": [
 					41.98175811767578,
-					45.99758529663086
+					45.99757766723633
 				],
 				"name": "Equator",
 				"tags": [
@@ -112382,7 +110684,7 @@
 			{
 				"gps": [
 					42.00809860229492,
-					47.760704040527344
+					47.76069641113281
 				],
 				"name": "Equator",
 				"tags": [
@@ -112397,7 +110699,7 @@
 			{
 				"gps": [
 					42.026458740234375,
-					49.52700424194336
+					49.52699661254883
 				],
 				"name": "Equator",
 				"tags": [
@@ -112412,7 +110714,7 @@
 			{
 				"gps": [
 					42.09000015258789,
-					46.410491943359375
+					46.410484313964844
 				],
 				"name": "Equator",
 				"tags": [
@@ -112427,7 +110729,7 @@
 			{
 				"gps": [
 					42.11685562133789,
-					48.17557144165039
+					48.17556381225586
 				],
 				"name": "Equator",
 				"tags": [
@@ -112442,7 +110744,7 @@
 			{
 				"gps": [
 					42.13669967651367,
-					49.94369888305664
+					49.94369125366211
 				],
 				"name": "Equator",
 				"tags": [
@@ -112457,7 +110759,7 @@
 			{
 				"gps": [
 					42.206974029541016,
-					46.824951171875
+					46.82494354248047
 				],
 				"name": "Equator",
 				"tags": [
@@ -112471,7 +110773,7 @@
 			{
 				"gps": [
 					42.22520065307617,
-					48.588924407958984
+					48.58891296386719
 				],
 				"name": "Equator",
 				"tags": [
@@ -112486,7 +110788,7 @@
 			{
 				"gps": [
 					42.245216369628906,
-					50.35789108276367
+					50.35788345336914
 				],
 				"name": "Equator",
 				"tags": [
@@ -112501,7 +110803,7 @@
 			{
 				"gps": [
 					42.31555938720703,
-					47.23917770385742
+					47.239173889160156
 				],
 				"name": "Equator",
 				"tags": [
@@ -112515,7 +110817,7 @@
 			{
 				"gps": [
 					42.334285736083984,
-					49.00456237792969
+					49.004554748535156
 				],
 				"name": "Equator",
 				"tags": [
@@ -112529,7 +110831,7 @@
 			{
 				"gps": [
 					42.39643096923828,
-					45.888946533203125
+					45.888938903808594
 				],
 				"name": "Equator",
 				"tags": [
@@ -112544,7 +110846,7 @@
 			{
 				"gps": [
 					42.423912048339844,
-					47.65250015258789
+					47.65249252319336
 				],
 				"name": "Equator",
 				"tags": [
@@ -112558,7 +110860,7 @@
 			{
 				"gps": [
 					42.44173049926758,
-					49.419063568115234
+					49.4190559387207
 				],
 				"name": "Equator",
 				"tags": [
@@ -112573,7 +110875,7 @@
 			{
 				"gps": [
 					42.50465774536133,
-					46.301849365234375
+					46.301841735839844
 				],
 				"name": "Equator",
 				"tags": [
@@ -112588,7 +110890,7 @@
 			{
 				"gps": [
 					42.53200149536133,
-					48.064857482910156
+					48.064849853515625
 				],
 				"name": "Equator",
 				"tags": [
@@ -112602,7 +110904,7 @@
 			{
 				"gps": [
 					42.54978561401367,
-					49.83319854736328
+					49.833194732666016
 				],
 				"name": "Equator",
 				"tags": [
@@ -112617,7 +110919,7 @@
 			{
 				"gps": [
 					42.613399505615234,
-					46.71689987182617
+					46.71689224243164
 				],
 				"name": "Equator",
 				"tags": [
@@ -112632,7 +110934,7 @@
 			{
 				"gps": [
 					42.638511657714844,
-					48.48063659667969
+					48.480628967285156
 				],
 				"name": "Equator",
 				"tags": [
@@ -112647,7 +110949,7 @@
 			{
 				"gps": [
 					42.65837097167969,
-					50.24766159057617
+					50.247657775878906
 				],
 				"name": "Equator",
 				"tags": [
@@ -112662,7 +110964,7 @@
 			{
 				"gps": [
 					42.725799560546875,
-					47.13043212890625
+					47.13042449951172
 				],
 				"name": "Equator",
 				"tags": [
@@ -112676,7 +110978,7 @@
 			{
 				"gps": [
 					42.747314453125,
-					48.89567184448242
+					48.89566421508789
 				],
 				"name": "Equator",
 				"tags": [
@@ -112691,7 +110993,7 @@
 			{
 				"gps": [
 					42.76676940917969,
-					50.66144561767578
+					50.661434173583984
 				],
 				"name": "Equator",
 				"tags": [
@@ -112706,7 +111008,7 @@
 			{
 				"gps": [
 					42.810970306396484,
-					45.780338287353516
+					45.78032684326172
 				],
 				"name": "Equator",
 				"tags": [
@@ -112721,7 +111023,7 @@
 			{
 				"gps": [
 					42.83465576171875,
-					47.54574203491211
+					47.545738220214844
 				],
 				"name": "Equator",
 				"tags": [
@@ -112735,7 +111037,7 @@
 			{
 				"gps": [
 					42.85604476928711,
-					49.31045913696289
+					49.310447692871094
 				],
 				"name": "Equator",
 				"tags": [
@@ -112750,7 +111052,7 @@
 			{
 				"gps": [
 					42.91921615600586,
-					46.193241119384766
+					46.1932373046875
 				],
 				"name": "Equator",
 				"tags": [
@@ -112765,7 +111067,7 @@
 			{
 				"gps": [
 					42.94294357299805,
-					47.95878601074219
+					47.958778381347656
 				],
 				"name": "Equator",
 				"tags": [
@@ -112779,7 +111081,7 @@
 			{
 				"gps": [
 					42.965415954589844,
-					49.724308013916016
+					49.724300384521484
 				],
 				"name": "Equator",
 				"tags": [
@@ -112794,7 +111096,7 @@
 			{
 				"gps": [
 					43.027957916259766,
-					46.60829162597656
+					46.608280181884766
 				],
 				"name": "Equator",
 				"tags": [
@@ -112809,7 +111111,7 @@
 			{
 				"gps": [
 					43.05183029174805,
-					48.37420654296875
+					48.37419891357422
 				],
 				"name": "Equator",
 				"tags": [
@@ -112823,7 +111125,7 @@
 			{
 				"gps": [
 					43.07400131225586,
-					50.138771057128906
+					50.13876724243164
 				],
 				"name": "Equator",
 				"tags": [
@@ -112838,7 +111140,7 @@
 			{
 				"gps": [
 					43.1391716003418,
-					47.022071838378906
+					47.022064208984375
 				],
 				"name": "Equator",
 				"tags": [
@@ -112852,7 +111154,7 @@
 			{
 				"gps": [
 					43.160213470458984,
-					48.78763961791992
+					48.78763198852539
 				],
 				"name": "Equator",
 				"tags": [
@@ -112866,7 +111168,7 @@
 			{
 				"gps": [
 					43.18241500854492,
-					50.55255126953125
+					50.55253982543945
 				],
 				"name": "Equator",
 				"tags": [
@@ -112881,7 +111183,7 @@
 			{
 				"gps": [
 					43.22452926635742,
-					45.6719856262207
+					45.67197799682617
 				],
 				"name": "Equator",
 				"tags": [
@@ -112896,7 +111198,7 @@
 			{
 				"gps": [
 					43.24802780151367,
-					47.4373779296875
+					47.437374114990234
 				],
 				"name": "Equator",
 				"tags": [
@@ -112910,7 +111212,7 @@
 			{
 				"gps": [
 					43.27075958251953,
-					49.20159149169922
+					49.20158767700195
 				],
 				"name": "Equator",
 				"tags": [
@@ -112925,7 +111227,7 @@
 			{
 				"gps": [
 					43.33277130126953,
-					46.08489227294922
+					46.08488845825195
 				],
 				"name": "Equator",
 				"tags": [
@@ -112940,7 +111242,7 @@
 			{
 				"gps": [
 					43.35631561279297,
-					47.850425720214844
+					47.85041809082031
 				],
 				"name": "Equator",
 				"tags": [
@@ -112954,7 +111256,7 @@
 			{
 				"gps": [
 					43.37932586669922,
-					49.615745544433594
+					49.6157341003418
 				],
 				"name": "Equator",
 				"tags": [
@@ -112969,7 +111271,7 @@
 			{
 				"gps": [
 					43.44151306152344,
-					46.49993896484375
+					46.49993133544922
 				],
 				"name": "Equator",
 				"tags": [
@@ -112984,7 +111286,7 @@
 			{
 				"gps": [
 					43.465213775634766,
-					48.265846252441406
+					48.265838623046875
 				],
 				"name": "Equator",
 				"tags": [
@@ -112998,7 +111300,7 @@
 			{
 				"gps": [
 					43.48794174194336,
-					50.03023147583008
+					50.03022384643555
 				],
 				"name": "Equator",
 				"tags": [
@@ -113013,7 +111315,7 @@
 			{
 				"gps": [
 					43.55375671386719,
-					46.913387298583984
+					46.91338348388672
 				],
 				"name": "Equator",
 				"tags": [
@@ -113027,7 +111329,7 @@
 			{
 				"gps": [
 					43.573585510253906,
-					48.67927551269531
+					48.67927169799805
 				],
 				"name": "Equator",
 				"tags": [
@@ -113041,7 +111343,7 @@
 			{
 				"gps": [
 					43.59635543823242,
-					50.444007873535156
+					50.444000244140625
 				],
 				"name": "Equator",
 				"tags": [
@@ -113056,7 +111358,7 @@
 			{
 				"gps": [
 					43.64018249511719,
-					45.563087463378906
+					45.563079833984375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113071,7 +111373,7 @@
 			{
 				"gps": [
 					43.662628173828125,
-					47.328697204589844
+					47.32869338989258
 				],
 				"name": "Equator",
 				"tags": [
@@ -113085,7 +111387,7 @@
 			{
 				"gps": [
 					43.684173583984375,
-					49.09328079223633
+					49.09326934814453
 				],
 				"name": "Equator",
 				"tags": [
@@ -113100,7 +111402,7 @@
 			{
 				"gps": [
 					43.74842834472656,
-					45.975990295410156
+					45.97598648071289
 				],
 				"name": "Equator",
 				"tags": [
@@ -113115,7 +111417,7 @@
 			{
 				"gps": [
 					43.77090072631836,
-					47.74174499511719
+					47.74173355102539
 				],
 				"name": "Equator",
 				"tags": [
@@ -113129,7 +111431,7 @@
 			{
 				"gps": [
 					43.79274368286133,
-					49.50742721557617
+					49.50741958618164
 				],
 				"name": "Equator",
 				"tags": [
@@ -113144,7 +111446,7 @@
 			{
 				"gps": [
 					43.857173919677734,
-					46.39104080200195
+					46.391029357910156
 				],
 				"name": "Equator",
 				"tags": [
@@ -113159,7 +111461,7 @@
 			{
 				"gps": [
 					43.87980270385742,
-					48.15716552734375
+					48.15715789794922
 				],
 				"name": "Equator",
 				"tags": [
@@ -113173,7 +111475,7 @@
 			{
 				"gps": [
 					43.901329040527344,
-					49.921871185302734
+					49.9218635559082
 				],
 				"name": "Equator",
 				"tags": [
@@ -113188,7 +111490,7 @@
 			{
 				"gps": [
 					43.969085693359375,
-					46.8045768737793
+					46.80457305908203
 				],
 				"name": "Equator",
 				"tags": [
@@ -113202,7 +111504,7 @@
 			{
 				"gps": [
 					43.9881706237793,
-					48.57059860229492
+					48.570587158203125
 				],
 				"name": "Equator",
 				"tags": [
@@ -113216,7 +111518,7 @@
 			{
 				"gps": [
 					44.009727478027344,
-					50.33564758300781
+					50.33563995361328
 				],
 				"name": "Equator",
 				"tags": [
@@ -113231,7 +111533,7 @@
 			{
 				"gps": [
 					44.053184509277344,
-					45.45487594604492
+					45.454872131347656
 				],
 				"name": "Equator",
 				"tags": [
@@ -113246,7 +111548,7 @@
 			{
 				"gps": [
 					44.07795715332031,
-					47.21988296508789
+					47.219879150390625
 				],
 				"name": "Equator",
 				"tags": [
@@ -113260,7 +111562,7 @@
 			{
 				"gps": [
 					44.099143981933594,
-					48.98447036743164
+					48.984466552734375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113275,7 +111577,7 @@
 			{
 				"gps": [
 					44.16143035888672,
-					45.8677864074707
+					45.86777877807617
 				],
 				"name": "Equator",
 				"tags": [
@@ -113290,7 +111592,7 @@
 			{
 				"gps": [
 					44.18622970581055,
-					47.6329345703125
+					47.6329231262207
 				],
 				"name": "Equator",
 				"tags": [
@@ -113304,7 +111606,7 @@
 			{
 				"gps": [
 					44.20771408081055,
-					49.39862060546875
+					49.39861297607422
 				],
 				"name": "Equator",
 				"tags": [
@@ -113319,7 +111621,7 @@
 			{
 				"gps": [
 					44.270172119140625,
-					46.2828369140625
+					46.28282928466797
 				],
 				"name": "Equator",
 				"tags": [
@@ -113334,7 +111636,7 @@
 			{
 				"gps": [
 					44.295127868652344,
-					48.0483512878418
+					48.048343658447266
 				],
 				"name": "Equator",
 				"tags": [
@@ -113348,7 +111650,7 @@
 			{
 				"gps": [
 					44.31629943847656,
-					49.813087463378906
+					49.813079833984375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113363,7 +111665,7 @@
 			{
 				"gps": [
 					44.3824577331543,
-					46.69621276855469
+					46.696205139160156
 				],
 				"name": "Equator",
 				"tags": [
@@ -113377,7 +111679,7 @@
 			{
 				"gps": [
 					44.40462875366211,
-					48.460777282714844
+					48.46077346801758
 				],
 				"name": "Equator",
 				"tags": [
@@ -113392,7 +111694,7 @@
 			{
 				"gps": [
 					44.42471694946289,
-					50.22686767578125
+					50.22685623168945
 				],
 				"name": "Equator",
 				"tags": [
@@ -113407,7 +111709,7 @@
 			{
 				"gps": [
 					44.47008514404297,
-					45.34565353393555
+					45.345645904541016
 				],
 				"name": "Equator",
 				"tags": [
@@ -113422,7 +111724,7 @@
 			{
 				"gps": [
 					44.491329193115234,
-					47.11152648925781
+					47.11151885986328
 				],
 				"name": "Equator",
 				"tags": [
@@ -113436,7 +111738,7 @@
 			{
 				"gps": [
 					44.51315689086914,
-					48.87502670288086
+					48.875022888183594
 				],
 				"name": "Equator",
 				"tags": [
@@ -113451,7 +111753,7 @@
 			{
 				"gps": [
 					44.57832717895508,
-					45.7585563659668
+					45.75855255126953
 				],
 				"name": "Equator",
 				"tags": [
@@ -113466,7 +111768,7 @@
 			{
 				"gps": [
 					44.5995979309082,
-					47.524566650390625
+					47.524559020996094
 				],
 				"name": "Equator",
 				"tags": [
@@ -113480,7 +111782,7 @@
 			{
 				"gps": [
 					44.621803283691406,
-					49.28968811035156
+					49.2896842956543
 				],
 				"name": "Equator",
 				"tags": [
@@ -113495,7 +111797,7 @@
 			{
 				"gps": [
 					44.68707275390625,
-					46.173606872558594
+					46.17359924316406
 				],
 				"name": "Equator",
 				"tags": [
@@ -113510,7 +111812,7 @@
 			{
 				"gps": [
 					44.708499908447266,
-					47.93998718261719
+					47.93998336791992
 				],
 				"name": "Equator",
 				"tags": [
@@ -113524,7 +111826,7 @@
 			{
 				"gps": [
 					44.79705810546875,
-					46.5875358581543
+					46.587528228759766
 				],
 				"name": "Equator",
 				"tags": [
@@ -113538,7 +111840,7 @@
 			{
 				"gps": [
 					44.81804275512695,
-					48.35246658325195
+					48.352455139160156
 				],
 				"name": "Equator",
 				"tags": [
@@ -113553,7 +111855,7 @@
 			{
 				"gps": [
 					44.88605880737305,
-					45.24015808105469
+					45.240150451660156
 				],
 				"name": "Equator",
 				"tags": [
@@ -113568,7 +111870,7 @@
 			{
 				"gps": [
 					44.905914306640625,
-					47.00284194946289
+					47.002838134765625
 				],
 				"name": "Equator",
 				"tags": [
@@ -113582,7 +111884,7 @@
 			{
 				"gps": [
 					44.926570892333984,
-					48.76671600341797
+					48.76670837402344
 				],
 				"name": "Equator",
 				"tags": [
@@ -113597,7 +111899,7 @@
 			{
 				"gps": [
 					44.99478530883789,
-					45.65517807006836
+					45.65517044067383
 				],
 				"name": "Equator",
 				"tags": [
@@ -113612,7 +111914,7 @@
 			{
 				"gps": [
 					45.014198303222656,
-					47.415889739990234
+					47.4158821105957
 				],
 				"name": "Equator",
 				"tags": [
@@ -113626,7 +111928,7 @@
 			{
 				"gps": [
 					45.10342788696289,
-					46.0660285949707
+					46.06602096557617
 				],
 				"name": "Equator",
 				"tags": [
@@ -113640,7 +111942,7 @@
 			{
 				"gps": [
 					45.12310028076172,
-					47.8313102722168
+					47.831302642822266
 				],
 				"name": "Equator",
 				"tags": [
@@ -113654,7 +111956,7 @@
 			{
 				"gps": [
 					45.21229934692383,
-					46.48134231567383
+					46.4813346862793
 				],
 				"name": "Equator",
 				"tags": [
@@ -113668,7 +111970,7 @@
 			{
 				"gps": [
 					45.23301315307617,
-					48.243656158447266
+					48.24365234375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113683,7 +111985,7 @@
 			{
 				"gps": [
 					45.30077362060547,
-					45.131507873535156
+					45.131500244140625
 				],
 				"name": "Equator",
 				"tags": [
@@ -113698,7 +112000,7 @@
 			{
 				"gps": [
 					45.32057189941406,
-					46.894386291503906
+					46.894378662109375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113712,7 +112014,7 @@
 			{
 				"gps": [
 					45.3415412902832,
-					48.657901763916016
+					48.65789794921875
 				],
 				"name": "Equator",
 				"tags": [
@@ -113727,7 +112029,7 @@
 			{
 				"gps": [
 					45.40950012207031,
-					45.54652404785156
+					45.54651641845703
 				],
 				"name": "Equator",
 				"tags": [
@@ -113742,7 +112044,7 @@
 			{
 				"gps": [
 					45.42947006225586,
-					47.30980682373047
+					47.30979919433594
 				],
 				"name": "Equator",
 				"tags": [
@@ -113756,7 +112058,7 @@
 			{
 				"gps": [
 					45.51679992675781,
-					45.95766830444336
+					45.95766067504883
 				],
 				"name": "Equator",
 				"tags": [
@@ -113770,7 +112072,7 @@
 			{
 				"gps": [
 					45.540313720703125,
-					47.7220344543457
+					47.722023010253906
 				],
 				"name": "Equator",
 				"tags": [
@@ -113785,7 +112087,7 @@
 			{
 				"gps": [
 					45.62567138671875,
-					46.37297821044922
+					46.37297058105469
 				],
 				"name": "Equator",
 				"tags": [
@@ -113799,7 +112101,7 @@
 			{
 				"gps": [
 					45.6490592956543,
-					48.137107849121094
+					48.13710021972656
 				],
 				"name": "Equator",
 				"tags": [
@@ -113814,7 +112116,7 @@
 			{
 				"gps": [
 					45.716400146484375,
-					45.02260971069336
+					45.02260208129883
 				],
 				"name": "Equator",
 				"tags": [
@@ -113829,7 +112131,7 @@
 			{
 				"gps": [
 					45.733943939208984,
-					46.7860221862793
+					46.786014556884766
 				],
 				"name": "Equator",
 				"tags": [
@@ -113843,7 +112145,7 @@
 			{
 				"gps": [
 					45.825130462646484,
-					45.43762969970703
+					45.437625885009766
 				],
 				"name": "Equator",
 				"tags": [
@@ -113858,7 +112160,7 @@
 			{
 				"gps": [
 					45.84284591674805,
-					47.20144271850586
+					47.20143508911133
 				],
 				"name": "Equator",
 				"tags": [
@@ -113872,7 +112174,7 @@
 			{
 				"gps": [
 					45.931400299072266,
-					45.8489875793457
+					45.848976135253906
 				],
 				"name": "Equator",
 				"tags": [
@@ -113886,7 +112188,7 @@
 			{
 				"gps": [
 					45.95564270019531,
-					47.613155364990234
+					47.61315155029297
 				],
 				"name": "Equator",
 				"tags": [
@@ -113901,7 +112203,7 @@
 			{
 				"gps": [
 					46.04025650024414,
-					46.26430130004883
+					46.2642936706543
 				],
 				"name": "Equator",
 				"tags": [
@@ -113915,7 +112217,7 @@
 			{
 				"gps": [
 					46.06439971923828,
-					48.028228759765625
+					48.02822494506836
 				],
 				"name": "Equator",
 				"tags": [
@@ -113930,7 +112232,7 @@
 			{
 				"gps": [
 					46.12992858886719,
-					44.91426467895508
+					44.91426086425781
 				],
 				"name": "Equator",
 				"tags": [
@@ -113945,7 +112247,7 @@
 			{
 				"gps": [
 					46.14854049682617,
-					46.67734146118164
+					46.677337646484375
 				],
 				"name": "Equator",
 				"tags": [
@@ -113959,7 +112261,7 @@
 			{
 				"gps": [
 					46.2386589050293,
-					45.32929229736328
+					45.329280853271484
 				],
 				"name": "Equator",
 				"tags": [
@@ -113974,7 +112276,7 @@
 			{
 				"gps": [
 					46.257442474365234,
-					47.09276580810547
+					47.09275817871094
 				],
 				"name": "Equator",
 				"tags": [
@@ -113988,7 +112290,7 @@
 			{
 				"gps": [
 					46.345001220703125,
-					45.740570068359375
+					45.74055862426758
 				],
 				"name": "Equator",
 				"tags": [
@@ -114002,7 +112304,7 @@
 			{
 				"gps": [
 					46.37015914916992,
-					47.50449752807617
+					47.50448989868164
 				],
 				"name": "Equator",
 				"tags": [
@@ -114017,7 +112319,7 @@
 			{
 				"gps": [
 					46.453857421875,
-					46.155879974365234
+					46.15586853027344
 				],
 				"name": "Equator",
 				"tags": [
@@ -114031,7 +112333,7 @@
 			{
 				"gps": [
 					46.55144119262695,
-					44.803829193115234
+					44.80382537841797
 				],
 				"name": "Equator",
 				"tags": [
@@ -114046,7 +112348,7 @@
 			{
 				"gps": [
 					46.5621452331543,
-					46.56892013549805
+					46.56891632080078
 				],
 				"name": "Equator",
 				"tags": [
@@ -114060,7 +112362,7 @@
 			{
 				"gps": [
 					46.66017150878906,
-					45.21885299682617
+					45.21884536743164
 				],
 				"name": "Equator",
 				"tags": [
@@ -114075,7 +112377,7 @@
 			{
 				"gps": [
 					46.674800872802734,
-					46.98167419433594
+					46.981666564941406
 				],
 				"name": "Equator",
 				"tags": [
@@ -114090,7 +112392,7 @@
 			{
 				"gps": [
 					46.76575469970703,
-					45.63242721557617
+					45.632423400878906
 				],
 				"name": "Equator",
 				"tags": [
@@ -114105,7 +112407,7 @@
 			{
 				"gps": [
 					46.78352737426758,
-					47.39669418334961
+					47.396690368652344
 				],
 				"name": "Equator",
 				"tags": [
@@ -114120,7 +112422,7 @@
 			{
 				"gps": [
 					46.87448501586914,
-					46.047447204589844
+					46.04744338989258
 				],
 				"name": "Equator",
 				"tags": [
@@ -114135,7 +112437,7 @@
 			{
 				"gps": [
 					46.96574401855469,
-					44.69528579711914
+					44.69527816772461
 				],
 				"name": "Equator",
 				"tags": [
@@ -114150,7 +112452,7 @@
 			{
 				"gps": [
 					46.98308563232422,
-					46.46161651611328
+					46.461612701416016
 				],
 				"name": "Equator",
 				"tags": [
@@ -114165,7 +112467,7 @@
 			{
 				"gps": [
 					47.0744743347168,
-					45.11030578613281
+					45.11030197143555
 				],
 				"name": "Equator",
 				"tags": [
@@ -114180,7 +112482,7 @@
 			{
 				"gps": [
 					47.09181594848633,
-					46.87664031982422
+					46.87663269042969
 				],
 				"name": "Equator",
 				"tags": [
@@ -114195,7 +112497,7 @@
 			{
 				"gps": [
 					47.18051528930664,
-					45.523704528808594
+					45.52369689941406
 				],
 				"name": "Equator",
 				"tags": [
@@ -114210,7 +112512,7 @@
 			{
 				"gps": [
 					47.289241790771484,
-					45.938724517822266
+					45.938716888427734
 				],
 				"name": "Equator",
 				"tags": [
@@ -114225,7 +112527,7 @@
 			{
 				"gps": [
 					47.37941360473633,
-					44.58690643310547
+					44.58689880371094
 				],
 				"name": "Equator",
 				"tags": [
@@ -114240,7 +112542,7 @@
 			{
 				"gps": [
 					47.39784240722656,
-					46.3528938293457
+					46.35288619995117
 				],
 				"name": "Equator",
 				"tags": [
@@ -114255,7 +112557,7 @@
 			{
 				"gps": [
 					47.48814392089844,
-					45.001930236816406
+					45.001922607421875
 				],
 				"name": "Equator",
 				"tags": [
@@ -114270,7 +112572,7 @@
 			{
 				"gps": [
 					47.596370697021484,
-					45.41468811035156
+					45.4146842956543
 				],
 				"name": "Equator",
 				"tags": [
@@ -114285,7 +112587,7 @@
 			{
 				"gps": [
 					47.70511245727539,
-					45.8297119140625
+					45.82970428466797
 				],
 				"name": "Equator",
 				"tags": [
@@ -114385,14 +112687,11 @@
 			"Cay_C_Marine_Warm_Near"
 		],
 		"worldX": 4979380.5,
-		"worldY": 1862579.88
+		"worldY": 1862580.13
 	},
 	"71": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -116376,7 +114675,7 @@
 			"Cocoa": 25,
 			"Coconut": 1699,
 			"Copper": 207,
-			"Coquina": 7828,
+			"Coquina": 6864,
 			"Fir": 947,
 			"Fronds": 2823,
 			"Geode": 2974,
@@ -116390,6 +114689,7 @@
 			"Parsley": 17448,
 			"Resin": 7310,
 			"Rosemary": 6430,
+			"Sandstone": 964,
 			"Sea Salt": 1451,
 			"Slate": 5541,
 			"Straw": 25924,
@@ -116412,10 +114712,6 @@
 	"72": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -126777,10 +125073,6 @@
 	"75": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -131446,7 +129738,7 @@
 			"Cedar": 13865,
 			"Cilantro": 9,
 			"Coconut": 8420,
-			"Coquina": 1514,
+			"Coquina": 347,
 			"Crude Oil": 26,
 			"Elderberry": 1470,
 			"Fir": 7936,
@@ -131466,6 +129758,7 @@
 			"Resin": 24215,
 			"Rice Seed": 3701,
 			"Rosemary": 19319,
+			"Sandstone": 1167,
 			"Slate": 6334,
 			"Straw": 159329,
 			"Sugars": 4655,
@@ -134550,10 +132843,6 @@
 	"77": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Chicken",
 			"Cow",
@@ -135504,10 +133793,6 @@
 	"78": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -136959,11 +135244,6 @@
 	"79": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"CaveBat",
@@ -138630,10 +136910,7 @@
 	},
 	"81": {
 		"animals": [
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Catfish",
 			"CaveBat",
@@ -141741,10 +140018,6 @@
 	"83": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -143794,13 +142067,14 @@
 			"Iron": 30458,
 			"Jute": 22412,
 			"Lime": 116,
-			"Limestone": 36487,
+			"Limestone": 36138,
 			"Maps": 6,
 			"Nitre": 209,
 			"Oak": 3567,
 			"Quartz": 601,
 			"Resin": 2715,
 			"Rock Salt": 811,
+			"Sandstone": 349,
 			"Sea Grapes": 142,
 			"Slate": 415,
 			"Straw": 850,
@@ -143820,10 +142094,6 @@
 	"84": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -146849,7 +145119,7 @@
 			"Cedar": 4244,
 			"Cilantro": 11792,
 			"Coconut": 1156,
-			"Coquina": 9604,
+			"Coquina": 8759,
 			"Crude Oil": 21,
 			"Elderberry": 408,
 			"Fir": 1013,
@@ -146867,6 +145137,7 @@
 			"Nitre": 52,
 			"Oak": 2949,
 			"Resin": 8197,
+			"Sandstone": 845,
 			"Slate": 3430,
 			"Straw": 42050,
 			"Twigs": 108,
@@ -152689,10 +150960,6 @@
 	"87": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -155631,11 +153898,6 @@
 	"89": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -157955,12 +156217,6 @@
 	"90": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -159792,11 +158048,7 @@
 	},
 	"91": {
 		"animals": [
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
+			"AAW Pig",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -161975,10 +160227,7 @@
 	},
 	"92": {
 		"animals": [
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -166477,10 +164726,6 @@
 	"94": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -168318,11 +166563,6 @@
 	"95": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -188086,10 +186326,7 @@
 	},
 	"104": {
 		"animals": [
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
+			"AAW Pig",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -190107,11 +188344,6 @@
 	"105": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -192137,11 +190369,6 @@
 	"106": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -194252,11 +192479,6 @@
 	"107": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -195537,7 +193759,7 @@
 			"Honey": 23,
 			"Iron": 7033,
 			"Jute": 8380,
-			"Limestone": 14108,
+			"Limestone": 13177,
 			"Maps": 6,
 			"Nitre": 387,
 			"Oak": 3907,
@@ -195547,6 +193769,7 @@
 			"Resin": 3712,
 			"Roots": 1776,
 			"Rosemary": 4221,
+			"Sandstone": 931,
 			"Sea Grapes": 14667,
 			"Slate": 144,
 			"Straw": 19510,
@@ -201988,10 +200211,6 @@
 	"117": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -203170,6 +201389,7 @@
 	},
 	"118": {
 		"animals": [
+			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -204454,10 +202674,6 @@
 	"260": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Chicken",
 			"Cow",
@@ -206398,8 +204614,6 @@
 	"270": {
 		"animals": [
 			"AAW Pig",
-			"AB LootCat",
-			"AB LootPig",
 			"Cat",
 			"Chicken",
 			"Monkey",
@@ -206452,9 +204666,6 @@
 	"274": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootCat",
-			"AB LootPig",
 			"Bear",
 			"Bee",
 			"Cat",
@@ -206973,5 +205184,1561 @@
 		],
 		"worldX": 3868285.5,
 		"worldY": 3508373.25
+	},
+	"278": {
+		"animals": [
+			"AAW Pig",
+			"Bear",
+			"Bee",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Seagull",
+			"Sheep",
+			"Wolf"
+		],
+		"biomeTags": [
+			"Temperate",
+			"WesternTemperate",
+			"WesternTemperateWindy"
+		],
+		"biomes": [
+			{
+				"gps": [
+					67.83915710449219,
+					79.65666961669922
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					67.96378326416016,
+					79.24504089355469
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.25265502929688,
+					79.78187561035156
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.37728881835938,
+					79.3702392578125
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.50080108642578,
+					78.96226501464844
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.5926742553711,
+					77.20915985107422
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					68.62480163574219,
+					78.55274200439453
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.74818420410156,
+					78.14518737792969
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.7862548828125,
+					79.49405670166016
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.8717041015625,
+					77.737060546875
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.9097900390625,
+					79.08609771728516
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					68.96964263916016,
+					75.97608947753906
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.0051040649414,
+					77.33403015136719
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.03377532958984,
+					78.67656707763672
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.130126953125,
+					76.92108154296875
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.15717315673828,
+					78.26900482177734
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.19718170166016,
+					79.61865997314453
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.25404357910156,
+					76.51180267333984
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.28067016601562,
+					77.86088562011719
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.32071685791016,
+					79.21068572998047
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.37871551513672,
+					76.09994506835938
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.44469451904297,
+					78.80115509033203
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.48432922363281,
+					80.15684509277344
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.50262451171875,
+					75.69065856933594
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.53810119628906,
+					77.0414047241211
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.56809997558594,
+					78.39360046386719
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.60895538330078,
+					79.74520874023438
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.66195678710938,
+					76.6323471069336
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.69159698486328,
+					77.98548126220703
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.73246765136719,
+					79.33724212646484
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.79010009765625,
+					76.22449493408203
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.8564682006836,
+					78.9277114868164
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.89525604248047,
+					80.28143310546875
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					69.91401672363281,
+					75.81521606445312
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.94503021240234,
+					77.16461181640625
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					69.9804458618164,
+					78.51824188232422
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.01988220214844,
+					79.86980438232422
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.06888580322266,
+					76.75554656982422
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					70.1043701171875,
+					78.1089096069336
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.14340209960938,
+					79.46183776855469
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.19493103027344,
+					76.3452377319336
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.22859954833984,
+					77.69863891601562
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.26739501953125,
+					79.05230712890625
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.30677032470703,
+					80.40597534179688
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.31886291503906,
+					75.93596649169922
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.35442352294922,
+					77.28855895996094
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					70.39137268066406,
+					78.64282989501953
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.431396484375,
+					79.99433135986328
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.478271484375,
+					76.87950134277344
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					70.51529693603516,
+					78.2334976196289
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.5549087524414,
+					79.58637237548828
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.60321807861328,
+					76.46880340576172
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.63951110839844,
+					77.82323455810547
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.67890167236328,
+					79.17684173583984
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.7182388305664,
+					80.5304946899414
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.72714233398438,
+					76.05951690673828
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.76331329345703,
+					77.4120101928711
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.80288696289062,
+					78.76737213134766
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.84288787841797,
+					80.11885833740234
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.88929748535156,
+					77.00248718261719
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					70.92681884765625,
+					78.3580322265625
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					70.96640014648438,
+					79.71089172363281
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.0131607055664,
+					76.59342956542969
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					71.09038543701172,
+					79.30136108398438
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.1253890991211,
+					80.65369415283203
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.13665771484375,
+					76.18529510498047
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					71.17025756835938,
+					77.53515625
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.21437072753906,
+					78.89189147949219
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.25001525878906,
+					80.24207305908203
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.3006820678711,
+					77.12704467773438
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					71.33830261230469,
+					78.48255920410156
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.37354278564453,
+					79.83409881591797
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.42454528808594,
+					76.71797943115234
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					71.49752807617188,
+					79.42457580566406
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.53443908691406,
+					80.77748107910156
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.54804229736328,
+					76.30986022949219
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					71.58100128173828,
+					77.65945434570312
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.62149810791016,
+					79.01509857177734
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.65907287597656,
+					80.36585235595703
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.70516967773438,
+					77.24915313720703
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.74544525146484,
+					78.60577392578125
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.78258514404297,
+					79.9578857421875
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.82937622070312,
+					76.8387222290039
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.90657043457031,
+					79.5483627319336
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.95288848876953,
+					76.43060302734375
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					71.98928833007812,
+					77.78301239013672
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					72.03055572509766,
+					79.1388931274414
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					72.11345672607422,
+					77.3727035522461
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					72.15448760986328,
+					78.72956085205078
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					72.23765563964844,
+					76.96228790283203
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			},
+			{
+				"gps": [
+					72.36116790771484,
+					76.55416107177734
+				],
+				"name": "Western Temperate",
+				"tags": [
+					"Temperate",
+					"WesternTemperate",
+					"WesternTemperateWindy"
+				],
+				"temp": [
+					-8,
+					35
+				]
+			}
+		],
+		"discoveries": [
+			{
+				"lat": 78.6,
+				"long": 70.1,
+				"name": "Vixens Cove"
+			}
+		],
+		"grid": "E1",
+		"homeServer": false,
+		"id": 278,
+		"isControlPoint": false,
+		"islandHeight": 204000,
+		"islandPoints": 35,
+		"islandWidth": 204000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_NB_WF",
+		"region": "",
+		"resources": {
+			"Anthracite": 323,
+			"Ash": 22001,
+			"Bark": 11396,
+			"Basalt": 29576,
+			"Bone Chips": 1,
+			"Carrot Seed": 1694,
+			"Chamomile": 1302,
+			"Coquina": 29576,
+			"Elderberry": 22261,
+			"Emerald": 694,
+			"Fir": 49,
+			"Geode": 29784,
+			"Granite": 716,
+			"Hemp": 31445,
+			"Iron": 29808,
+			"Limestone": 1849,
+			"Maps": 13,
+			"Mint": 12284,
+			"Onion Seed": 2182,
+			"Oregano": 788,
+			"Parsley": 5818,
+			"Pepper Seed": 1316,
+			"Pine": 3359,
+			"Poplar": 189,
+			"Quartz": 208,
+			"Radiolarite": 624,
+			"Resin": 10896,
+			"Slate": 232,
+			"Straw": 53166,
+			"Strawberry": 5188,
+			"Syrup": 46,
+			"Twigs": 14702,
+			"Wild Carrot": 1694,
+			"Wild Onion": 2182,
+			"Wild Pepper": 1316
+		},
+		"rotation": 73.15914,
+		"sublevels": [
+			"Mnt_N_Far_02B",
+			"Mnt_N_Farthest_02B",
+			"Mnt_N_Near_02B",
+			"Mnt_N_Marine_Cold_Near",
+			"Mnt_N_PO"
+		],
+		"worldX": 5968542.5,
+		"worldY": 760198.8
 	}
 }
