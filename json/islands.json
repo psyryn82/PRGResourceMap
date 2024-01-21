@@ -2051,9 +2051,6 @@
 	"7": {
 		"animals": [
 			"AAW Pig",
-			"AB LootLion",
-			"AB LootRazortooth",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"CaveBat",
@@ -4526,7 +4523,7 @@
 			},
 			{
 				"gps": [
-					-64.6332015991211,
+					-64.63319396972656,
 					-78.63389587402344
 				],
 				"name": "Central High Desert",
@@ -4686,7 +4683,7 @@
 			},
 			{
 				"gps": [
-					-65.17220306396484,
+					-65.17219543457031,
 					-81.70148468017578
 				],
 				"name": "Central High Desert",
@@ -4766,7 +4763,7 @@
 			},
 			{
 				"gps": [
-					-65.37551879882812,
+					-65.3755111694336,
 					-82.07597351074219
 				],
 				"name": "Central High Desert",
@@ -4782,7 +4779,7 @@
 			},
 			{
 				"gps": [
-					-65.38916015625,
+					-65.38915252685547,
 					-78.22338104248047
 				],
 				"name": "Central High Desert",
@@ -4910,7 +4907,7 @@
 			},
 			{
 				"gps": [
-					-65.62323760986328,
+					-65.62322998046875,
 					-79.55077362060547
 				],
 				"name": "Central High Desert",
@@ -4941,7 +4938,7 @@
 			},
 			{
 				"gps": [
-					-65.7527084350586,
+					-65.75270080566406,
 					-81.87110137939453
 				],
 				"name": "Central High Desert",
@@ -4989,7 +4986,7 @@
 			},
 			{
 				"gps": [
-					-65.82206726074219,
+					-65.82205963134766,
 					-77.22823333740234
 				],
 				"name": "Central High Desert",
@@ -5068,7 +5065,7 @@
 			},
 			{
 				"gps": [
-					-65.99764251708984,
+					-65.99763488769531,
 					-79.34642791748047
 				],
 				"name": "Central High Desert",
@@ -5146,7 +5143,7 @@
 			},
 			{
 				"gps": [
-					-66.20183563232422,
+					-66.20182800292969,
 					-79.7225112915039
 				],
 				"name": "Central High Desert",
@@ -5191,7 +5188,7 @@
 			},
 			{
 				"gps": [
-					-66.3650131225586,
+					-66.36499786376953,
 					-82.99877166748047
 				],
 				"name": "Central High Desert",
@@ -5207,7 +5204,7 @@
 			},
 			{
 				"gps": [
-					-66.40562438964844,
+					-66.40560913085938,
 					-80.09783935546875
 				],
 				"name": "Central High Desert",
@@ -5254,7 +5251,7 @@
 			},
 			{
 				"gps": [
-					-66.56879425048828,
+					-66.56878662109375,
 					-83.37409973144531
 				],
 				"name": "Central High Desert",
@@ -5285,7 +5282,7 @@
 			},
 			{
 				"gps": [
-					-66.61888122558594,
+					-66.6188735961914,
 					-81.52996826171875
 				],
 				"name": "Central High Desert",
@@ -5316,7 +5313,7 @@
 			},
 			{
 				"gps": [
-					-66.6989974975586,
+					-66.69898986816406,
 					-80.20480346679688
 				],
 				"name": "Central High Desert",
@@ -5364,7 +5361,7 @@
 			},
 			{
 				"gps": [
-					-66.94868469238281,
+					-66.94867706298828,
 					-76.61646270751953
 				],
 				"name": "Central High Desert",
@@ -5380,7 +5377,7 @@
 			},
 			{
 				"gps": [
-					-67.00605010986328,
+					-67.00604248046875,
 					-79.25818634033203
 				],
 				"name": "Central High Desert",
@@ -5395,7 +5392,7 @@
 			},
 			{
 				"gps": [
-					-67.02437591552734,
+					-67.02436065673828,
 					-80.5608901977539
 				],
 				"name": "Central High Desert",
@@ -5426,7 +5423,7 @@
 			},
 			{
 				"gps": [
-					-67.32181549072266,
+					-67.32180786132812,
 					-82.9651107788086
 				],
 				"name": "Central High Desert",
@@ -5442,7 +5439,7 @@
 			},
 			{
 				"gps": [
-					-67.32552337646484,
+					-67.32551574707031,
 					-76.41185760498047
 				],
 				"name": "Central High Desert",
@@ -5474,7 +5471,7 @@
 			},
 			{
 				"gps": [
-					-67.384521484375,
+					-67.38451385498047,
 					-82.99539947509766
 				],
 				"name": "Central High Desert",
@@ -5490,7 +5487,7 @@
 			},
 			{
 				"gps": [
-					-67.54927825927734,
+					-67.54927062988281,
 					-79.44120025634766
 				],
 				"name": "Central High Desert",
@@ -5568,7 +5565,7 @@
 			},
 			{
 				"gps": [
-					-67.69686126708984,
+					-67.69685363769531,
 					-82.76141357421875
 				],
 				"name": "Central High Desert",
@@ -5632,7 +5629,7 @@
 			},
 			{
 				"gps": [
-					-68.02545166015625,
+					-68.02543640136719,
 					-77.28544616699219
 				],
 				"name": "Central High Desert",
@@ -5648,7 +5645,7 @@
 			},
 			{
 				"gps": [
-					-68.05956268310547,
+					-68.05955505371094,
 					-78.13197326660156
 				],
 				"name": "Central High Desert",
@@ -5664,7 +5661,7 @@
 			},
 			{
 				"gps": [
-					-68.07701873779297,
+					-68.07701110839844,
 					-76.00382232666016
 				],
 				"name": "Central High Desert",
@@ -5823,7 +5820,7 @@
 			},
 			{
 				"gps": [
-					-68.50630950927734,
+					-68.50630187988281,
 					-76.50077056884766
 				],
 				"name": "Central High Desert",
@@ -5839,7 +5836,7 @@
 			},
 			{
 				"gps": [
-					-68.54118347167969,
+					-68.54116821289062,
 					-76.24286651611328
 				],
 				"name": "Central High Desert",
@@ -5855,7 +5852,7 @@
 			},
 			{
 				"gps": [
-					-68.53813934326172,
+					-68.53813171386719,
 					-81.61868286132812
 				],
 				"name": "Central High Desert",
@@ -5871,7 +5868,7 @@
 			},
 			{
 				"gps": [
-					-68.57054901123047,
+					-68.57054138183594,
 					-77.2009048461914
 				],
 				"name": "Central High Desert",
@@ -5919,7 +5916,7 @@
 			},
 			{
 				"gps": [
-					-68.70510864257812,
+					-68.7051010131836,
 					-79.07699584960938
 				],
 				"name": "Central High Desert",
@@ -5951,7 +5948,7 @@
 			},
 			{
 				"gps": [
-					-68.74330139160156,
+					-68.74329376220703,
 					-81.99642944335938
 				],
 				"name": "Central High Desert",
@@ -6015,7 +6012,7 @@
 			},
 			{
 				"gps": [
-					-68.91236114501953,
+					-68.912353515625,
 					-81.41544342041016
 				],
 				"name": "Central High Desert",
@@ -6031,7 +6028,7 @@
 			},
 			{
 				"gps": [
-					-68.9423828125,
+					-68.94237518310547,
 					-78.38004302978516
 				],
 				"name": "Central High Desert",
@@ -6047,7 +6044,7 @@
 			},
 			{
 				"gps": [
-					-68.94969940185547,
+					-68.94969177246094,
 					-76.99504852294922
 				],
 				"name": "Central High Desert",
@@ -6063,7 +6060,7 @@
 			},
 			{
 				"gps": [
-					-68.94976043701172,
+					-68.94974517822266,
 					-77.73521423339844
 				],
 				"name": "Central High Desert",
@@ -6079,7 +6076,7 @@
 			},
 			{
 				"gps": [
-					-68.946533203125,
+					-68.94652557373047,
 					-79.83501434326172
 				],
 				"name": "Central High Desert",
@@ -6094,7 +6091,7 @@
 			},
 			{
 				"gps": [
-					-68.98082733154297,
+					-68.98081970214844,
 					-77.956298828125
 				],
 				"name": "Central High Desert",
@@ -6142,7 +6139,7 @@
 			},
 			{
 				"gps": [
-					-69.08372497558594,
+					-69.0837173461914,
 					-80.83393859863281
 				],
 				"name": "Central High Desert",
@@ -6158,7 +6155,7 @@
 			},
 			{
 				"gps": [
-					-69.11752319335938,
+					-69.11751556396484,
 					-81.79317474365234
 				],
 				"name": "Central High Desert",
@@ -6222,7 +6219,7 @@
 			},
 			{
 				"gps": [
-					-69.32434844970703,
+					-69.3243408203125,
 					-76.7916259765625
 				],
 				"name": "Central High Desert",
@@ -6238,7 +6235,7 @@
 			},
 			{
 				"gps": [
-					-69.35714721679688,
+					-69.35713195800781,
 					-77.47711181640625
 				],
 				"name": "Central High Desert",
@@ -6286,7 +6283,7 @@
 			},
 			{
 				"gps": [
-					-69.45794677734375,
+					-69.45793914794922,
 					-80.63069915771484
 				],
 				"name": "Central High Desert",
@@ -6350,7 +6347,7 @@
 			},
 			{
 				"gps": [
-					-69.59567260742188,
+					-69.59566497802734,
 					-79.08847045898438
 				],
 				"name": "Central High Desert",
@@ -6366,7 +6363,7 @@
 			},
 			{
 				"gps": [
-					-69.66278839111328,
+					-69.66278076171875,
 					-81.00789642333984
 				],
 				"name": "Central High Desert",
@@ -6382,7 +6379,7 @@
 			},
 			{
 				"gps": [
-					-69.73462677001953,
+					-69.734619140625,
 					-77.54702758789062
 				],
 				"name": "Central High Desert",
@@ -6494,7 +6491,7 @@
 			},
 			{
 				"gps": [
-					-70.00592041015625,
+					-70.00591278076172,
 					-79.84394073486328
 				],
 				"name": "Central High Desert",
@@ -6510,7 +6507,7 @@
 			},
 			{
 				"gps": [
-					-70.04169464111328,
+					-70.04168701171875,
 					-80.80213928222656
 				],
 				"name": "Central High Desert",
@@ -6526,7 +6523,7 @@
 			},
 			{
 				"gps": [
-					-70.05644226074219,
+					-70.05642700195312,
 					-80.31834411621094
 				],
 				"name": "Central High Desert",
@@ -6542,7 +6539,7 @@
 			},
 			{
 				"gps": [
-					-70.1443099975586,
+					-70.14430236816406,
 					-78.30146026611328
 				],
 				"name": "Central High Desert",
@@ -6558,7 +6555,7 @@
 			},
 			{
 				"gps": [
-					-70.1799545288086,
+					-70.17994689941406,
 					-79.26042938232422
 				],
 				"name": "Central High Desert",
@@ -6606,7 +6603,7 @@
 			},
 			{
 				"gps": [
-					-70.38507080078125,
+					-70.38506317138672,
 					-79.6380844116211
 				],
 				"name": "Central High Desert",
@@ -6686,7 +6683,7 @@
 			},
 			{
 				"gps": [
-					-70.759521484375,
+					-70.75951385498047,
 					-79.43476867675781
 				],
 				"name": "Central High Desert",
@@ -6702,7 +6699,7 @@
 			},
 			{
 				"gps": [
-					-70.7950668334961,
+					-70.79505920410156,
 					-80.39302825927734
 				],
 				"name": "Central High Desert",
@@ -6734,7 +6731,7 @@
 			},
 			{
 				"gps": [
-					-71.0002212524414,
+					-71.00021362304688,
 					-80.7707748413086
 				],
 				"name": "Central High Desert",
@@ -6798,7 +6795,7 @@
 			},
 			{
 				"gps": [
-					-71.547607421875,
+					-71.54759979248047,
 					-79.98442840576172
 				],
 				"name": "Central High Desert",
@@ -6856,17 +6853,12 @@
 			"Mnt_R_HD_PVE",
 			"Mnt_R_Marine_Cold_Near"
 		],
-		"worldX": 1139311.88,
+		"worldX": 1139312,
 		"worldY": 6282398.5
 	},
 	"9": {
 		"animals": [
 			"AAW Pig",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRazortooth",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Boss Buwaya",
 			"CaveBat",
@@ -8272,9 +8264,6 @@
 	"10": {
 		"animals": [
 			"AAW Pig",
-			"AB LootRazortooth",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Boss FireElemental",
 			"Catfish",
@@ -9262,12 +9251,6 @@
 	"11": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRazortooth",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Boss Kekada",
 			"Catfish",
@@ -13282,10 +13265,6 @@
 	"12": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootRazortooth",
-			"AB LootWolf",
 			"Bear",
 			"Boss Sentinel",
 			"CaveBat",
@@ -14145,10 +14124,6 @@
 	"13": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootRazortooth",
-			"AB LootWolf",
 			"Bear",
 			"CaveBat",
 			"Chicken",
@@ -15000,9 +14975,6 @@
 	"14": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootRazortooth",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -17389,9 +17361,6 @@
 	"15": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootWolf",
 			"Bear",
 			"Catfish",
 			"Cod",
@@ -20500,9 +20469,6 @@
 	"16": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootPig",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -23579,7 +23545,6 @@
 	},
 	"18": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -23649,7 +23614,6 @@
 	},
 	"19": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -24084,7 +24048,6 @@
 	},
 	"25": {
 		"animals": [
-			"AB LootShark",
 			"Anglerfish",
 			"Crab",
 			"Eel",
@@ -33751,10 +33714,6 @@
 	"31": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -34954,9 +34913,6 @@
 	"32": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Cobra",
@@ -40287,7 +40243,6 @@
 	},
 	"34": {
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -45021,7 +44976,6 @@
 	},
 	"36": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Catfish",
 			"Chicken",
@@ -46235,7 +46189,6 @@
 	},
 	"37": {
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -47085,10 +47038,6 @@
 	"38": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -47855,10 +47804,6 @@
 	"39": {
 		"animals": [
 			"AAW Pig",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -49312,4547 +49257,6 @@
 		],
 		"worldX": 1729951.63,
 		"worldY": 5899136
-	},
-	"40": {
-		"animals": [
-			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
-			"Bear",
-			"Crow",
-			"Penguin",
-			"Rabbit",
-			"Seagull",
-			"Wolf",
-			"Yeti"
-		],
-		"biomeTags": [
-			"Polar",
-			"PolarFrigid",
-			"PolarWarmer",
-			"PolarWindy"
-		],
-		"biomes": [
-			{
-				"gps": [
-					-46.23530197143555,
-					-87.0849838256836
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.54275894165039,
-					-85.891357421875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.542789459228516,
-					-86.7421875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.542816162109375,
-					-87.60044860839844
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.54275894165039,
-					-88.45687103271484
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.542789459228516,
-					-89.31512451171875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.54273223876953,
-					-90.17181396484375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.54275894165039,
-					-91.03007507324219
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-47.54273223876953,
-					-91.88253021240234
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-48.39396286010742,
-					-85.88990020751953
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-48.39398956298828,
-					-86.74215698242188
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-48.394020080566406,
-					-87.60041809082031
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-48.394046783447266,
-					-88.45541381835938
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-48.394046783447266,
-					-89.30829620361328
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-48.39093017578125,
-					-90.16510009765625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-48.39090347290039,
-					-91.02212524414062
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-48.40444564819336,
-					-91.88255310058594
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.02630615234375,
-					-92.64510345458984
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.24847412109375,
-					-85.89252471923828
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.248504638671875,
-					-86.74478149414062
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.248531341552734,
-					-87.59801483154297
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.252960205078125,
-					-88.45538330078125
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-49.252960205078125,
-					-89.30827331542969
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-49.249847412109375,
-					-90.16506958007812
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-49.249820709228516,
-					-91.0220947265625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-49.25384521484375,
-					-91.88255310058594
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.10084533691406,
-					-85.8925552368164
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.10087585449219,
-					-86.74481201171875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.10090637207031,
-					-87.5980453491211
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.10478973388672,
-					-88.45535278320312
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.10478973388672,
-					-89.30824279785156
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.10818862915039,
-					-90.1650390625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.108158111572266,
-					-91.0220718383789
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.115562438964844,
-					-91.88258361816406
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.17835998535156,
-					-88.81739044189453
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarFrigid"
-				],
-				"temp": [
-					-43,
-					5
-				]
-			},
-			{
-				"gps": [
-					-50.797359466552734,
-					-84.9492416381836
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.955135345458984,
-					-85.89258575439453
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.95515823364258,
-					-86.74484252929688
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.9551887512207,
-					-87.59807586669922
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.95581817626953,
-					-88.45541381835938
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-50.95581817626953,
-					-89.30829620361328
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.957786560058594,
-					-90.1650161743164
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.957763671875,
-					-91.02204132080078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-50.971214294433594,
-					-91.88258361816406
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-51.80821990966797,
-					-85.90247344970703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-51.80824279785156,
-					-86.75569915771484
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-51.811134338378906,
-					-87.60587310791016
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-51.8111572265625,
-					-88.4554443359375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-51.8111572265625,
-					-89.3083267211914
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-51.811134338378906,
-					-90.16498565673828
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-51.81110382080078,
-					-91.02201843261719
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar"
-				],
-				"temp": [
-					-26,
-					19
-				]
-			},
-			{
-				"gps": [
-					-51.83293151855469,
-					-91.88261413574219
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.634674072265625,
-					-90.1638412475586
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWarmer"
-				],
-				"temp": [
-					-21,
-					21
-				]
-			},
-			{
-				"gps": [
-					-52.66059112548828,
-					-85.90249633789062
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.660621643066406,
-					-86.75572967529297
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.66350555419922,
-					-87.60589599609375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.663536071777344,
-					-88.45547485351562
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.66344451904297,
-					-89.31364440917969
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.663475036621094,
-					-90.163818359375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.66350555419922,
-					-91.01338195800781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-52.68641662597656,
-					-91.88263702392578
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.51487350463867,
-					-85.90252685546875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.5149040222168,
-					-86.7557601928711
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.51519012451172,
-					-89.31367492675781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.515220642089844,
-					-90.1638412475586
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.51524353027344,
-					-91.01341247558594
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-53.62293243408203,
-					-92.58898162841797
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-54.01856231689453,
-					-85.24512481689453
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-54.21004867553711,
-					-88.96586608886719
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": -88.6,
-				"long": -50,
-				"name": "Cypress Island"
-			}
-		],
-		"grid": "B5",
-		"homeServer": false,
-		"id": 40,
-		"isControlPoint": false,
-		"islandHeight": 306000,
-		"islandPoints": 57,
-		"islandWidth": 306000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_Y_CP_B",
-		"region": "",
-		"resources": {
-			"Basalt": 8497,
-			"Calcite": 1069,
-			"Cobalt": 2040,
-			"FreshWater": 1,
-			"Geode": 3061,
-			"Granite": 13,
-			"Hemp": 222,
-			"Iron": 3061,
-			"Maps": 45,
-			"Pine": 839,
-			"Radiolarite": 13,
-			"Roots": 839,
-			"Sandstone": 7115,
-			"Tellurite": 517,
-			"Thyme": 603,
-			"Tin": 4891
-		},
-		"rotation": 0,
-		"sublevels": [
-			"Mnt_Y_Far_08B",
-			"Mnt_Y_Farthest_08B",
-			"Mnt_Y_Near_08B",
-			"Mnt_Y_Marine_Cold_Near",
-			"Mnt_Y_PO"
-		],
-		"worldX": 1738601.38,
-		"worldY": 6608417.5
-	},
-	"41": {
-		"animals": [
-			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
-			"Ant",
-			"Chicken",
-			"Cobra",
-			"Cow",
-			"Crocodile",
-			"Elephant",
-			"Giraffe",
-			"Monkey",
-			"Ostrich",
-			"Parrot",
-			"Pig",
-			"Rattlesnake",
-			"Scorpion",
-			"Seagull",
-			"Sheep",
-			"Tiger",
-			"Turtle"
-		],
-		"biomeTags": [
-			"Tropical",
-			"Tropics",
-			"WesternTropics",
-			"WesternTropicsWindy"
-		],
-		"biomes": [
-			{
-				"gps": [
-					-25.12738800048828,
-					-70.68862915039062
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-25.561269760131836,
-					-72.30812072753906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-25.575956344604492,
-					-65.86380004882812
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.085227966308594,
-					-68.20108032226562
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.085227966308594,
-					-68.5904541015625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-66.64329528808594
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-67.03296661376953
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-67.4223403930664
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-67.81171417236328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-68.20108032226562
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-68.5904541015625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-68.97982788085938
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-69.36920166015625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-69.7585678100586
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-70.14794158935547
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.46407127380371,
-					-70.53689575195312
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843143463134766,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843505859375,
-					-66.64161682128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843505859375,
-					-67.03108215332031
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843505859375,
-					-67.42056274414062
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843505859375,
-					-67.81002807617188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843505859375,
-					-68.1994857788086
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.840206146240234,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.840206146240234,
-					-68.97843170166016
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.84292221069336,
-					-69.36920166015625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.84292221069336,
-					-69.7585678100586
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843944549560547,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843055725097656,
-					-70.53689575195312
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-26.843055725097656,
-					-70.92632293701172
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.22220802307129,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.223072052001953,
-					-66.64161682128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.223072052001953,
-					-67.03108215332031
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.223072052001953,
-					-67.42056274414062
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.223072052001953,
-					-67.81002807617188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.223072052001953,
-					-68.1994857788086
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.219772338867188,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222013473510742,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222013473510742,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222013473510742,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222013473510742,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222084045410156,
-					-70.5373306274414
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.222043991088867,
-					-70.92632293701172
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.601272583007812,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.59934425354004,
-					-66.64161682128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.59934425354004,
-					-67.03108215332031
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.59934425354004,
-					-67.42056274414062
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.59934425354004,
-					-67.81002807617188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.59934425354004,
-					-68.1994857788086
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.599334716796875,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.601655960083008,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.601655960083008,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.601655960083008,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.601655960083008,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.598848342895508,
-					-70.5373306274414
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.599462509155273,
-					-70.92632293701172
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.980270385742188,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978906631469727,
-					-66.64161682128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978906631469727,
-					-67.03108215332031
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978906631469727,
-					-67.42056274414062
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978906631469727,
-					-67.81002807617188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978357315063477,
-					-68.19908905029297
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.978357315063477,
-					-68.5884017944336
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.975099563598633,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.975099563598633,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.975099563598633,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.975099563598633,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.976285934448242,
-					-70.5373306274414
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.976879119873047,
-					-70.92632293701172
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-27.976879119873047,
-					-71.31631469726562
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.35474395751953,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.35474395751953,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.35474395751953,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.35474395751953,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.359270095825195,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358470916748047,
-					-66.64161682128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358470916748047,
-					-67.03108215332031
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358285903930664,
-					-67.42233276367188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358285903930664,
-					-67.81068420410156
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358322143554688,
-					-68.19908905029297
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.358322143554688,
-					-68.5884017944336
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.355571746826172,
-					-70.5389175415039
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.355571746826172,
-					-70.92677307128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.356128692626953,
-					-71.31631469726562
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.356128692626953,
-					-71.70628356933594
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.49721336364746,
-					-65.0354232788086
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.7343807220459,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.7343807220459,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.7343807220459,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.7343807220459,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738271713256836,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738271713256836,
-					-66.64228820800781
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738271713256836,
-					-67.03230285644531
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738271713256836,
-					-67.42233276367188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738271713256836,
-					-67.81068420410156
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.7382869720459,
-					-68.19908905029297
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.738006591796875,
-					-68.58851623535156
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.735042572021484,
-					-70.5389175415039
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.735342025756836,
-					-70.9282455444336
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.735342025756836,
-					-71.31725311279297
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-28.735342025756836,
-					-71.70628356933594
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.003070831298828,
-					-71.63860321044922
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.00309944152832,
-					-72.18400573730469
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.114013671875,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.114013671875,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.114013671875,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.114013671875,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.114500045776367,
-					-70.5389175415039
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.11468505859375,
-					-70.9282455444336
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.117265701293945,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.117265701293945,
-					-66.64228820800781
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.118242263793945,
-					-67.03116607666016
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.118242263793945,
-					-67.41952514648438
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.118242263793945,
-					-67.8078842163086
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.116228103637695,
-					-68.19630432128906
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.116228103637695,
-					-68.58851623535156
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.493871688842773,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.493656158447266,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.493656158447266,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.493656158447266,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.493656158447266,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.494035720825195,
-					-70.54308319091797
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.494035720825195,
-					-70.93211364746094
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.494035720825195,
-					-71.32112884521484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.496265411376953,
-					-66.25362396240234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.49761390686035,
-					-67.4201431274414
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.495271682739258,
-					-67.80901336669922
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.49570083618164,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87430763244629,
-					-67.80901336669922
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87487030029297,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.873435974121094,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87329864501953,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87329864501953,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87329864501953,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87329864501953,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.8732852935791,
-					-70.54308319091797
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87752342224121,
-					-67.0308837890625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-29.87752342224121,
-					-67.4201431274414
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25485610961914,
-					-67.82369995117188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25404167175293,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25299835205078,
-					-68.58895111083984
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25293731689453,
-					-68.97884368896484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25293731689453,
-					-69.36791229248047
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25293731689453,
-					-69.75761413574219
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25293731689453,
-					-70.14813995361328
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25254249572754,
-					-70.54308319091797
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.25389862060547,
-					-70.93185424804688
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.257427215576172,
-					-66.64163970947266
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.257427215576172,
-					-67.0308837890625
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.256643295288086,
-					-67.42008209228516
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.634784698486328,
-					-67.82369995117188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.633214950561523,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.632570266723633,
-					-68.5955581665039
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.632570266723633,
-					-68.98502349853516
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.632570266723633,
-					-69.37409973144531
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.632570266723633,
-					-69.7637939453125
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.632570266723633,
-					-70.15432739257812
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.631792068481445,
-					-70.54308319091797
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.633148193359375,
-					-70.93185424804688
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.63733673095703,
-					-66.64163970947266
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.63733673095703,
-					-67.03181457519531
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-30.635679244995117,
-					-67.42008209228516
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-66.26737213134766
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-66.65743255615234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.014713287353516,
-					-67.03092956542969
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.014713287353516,
-					-67.42008209228516
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.014713287353516,
-					-67.82369995117188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011428833007812,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.012136459350586,
-					-68.5955581665039
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.012136459350586,
-					-68.98502349853516
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-69.3757095336914
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-69.7642593383789
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-70.15432739257812
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-70.5428695678711
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.011215209960938,
-					-70.93185424804688
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.028356552124023,
-					-65.14237213134766
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.29290008544922,
-					-71.31282806396484
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390657424926758,
-					-66.65743255615234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-67.04596710205078
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-67.43451690673828
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-67.82305908203125
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390602111816406,
-					-68.19918823242188
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-68.59862518310547
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-68.98717498779297
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.390649795532227,
-					-69.3757095336914
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.77008628845215,
-					-66.65743255615234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.77008628845215,
-					-67.04596710205078
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.77008628845215,
-					-67.82154083251953
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.77008628845215,
-					-68.2100830078125
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.77008628845215,
-					-68.59862518310547
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-31.988414764404297,
-					-68.48957061767578
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-32.14952850341797,
-					-66.65743255615234
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-32.14952850341797,
-					-67.04596710205078
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			},
-			{
-				"gps": [
-					-32.18832778930664,
-					-66.17888641357422
-				],
-				"name": "Western Tropics",
-				"tags": [
-					"Tropics",
-					"WesternTropics",
-					"WesternTropicsWindy",
-					"Tropical"
-				],
-				"temp": [
-					-3,
-					57
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": -68.9,
-				"long": -29.3,
-				"name": "Arixis Atoll"
-			}
-		],
-		"grid": "B5",
-		"homeServer": false,
-		"id": 41,
-		"isControlPoint": false,
-		"islandHeight": 306000,
-		"islandPoints": 57,
-		"islandWidth": 306000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_H_WR",
-		"region": "",
-		"resources": {
-			"Acai": 6841,
-			"Acerola": 359,
-			"Aloe": 468,
-			"Bark": 3949,
-			"Basalt": 5044,
-			"Bean Seed": 280,
-			"Blackberry": 4730,
-			"Bone Chips": 1,
-			"Cilantro": 2890,
-			"Cobalt": 80,
-			"Coconut": 6066,
-			"Crude Oil": 18,
-			"Elderberry": 911,
-			"Fir": 16062,
-			"Fronds": 7764,
-			"Geode": 4965,
-			"Hemp": 77,
-			"Honey": 34,
-			"Iron": 4965,
-			"Jute": 23040,
-			"Lime": 68,
-			"Limestone": 2965,
-			"Maps": 25,
-			"Nitre": 217,
-			"Oak": 1048,
-			"Resin": 9906,
-			"Sandstone": 2296,
-			"Slate": 3586,
-			"Straw": 16656,
-			"Twigs": 7272,
-			"Wild Beans": 280
-		},
-		"rotation": 0,
-		"sublevels": [
-			"Mnt_H_Far_04",
-			"Mnt_H_Farthest_04",
-			"Mnt_H_Near_04",
-			"Mnt_H_Marine_Warm_Near",
-			"Mnt_H_PO"
-		],
-		"worldX": 2482480.5,
-		"worldY": 5907786
 	},
 	"42": {
 		"animals": [
@@ -56347,10 +51751,6 @@
 	"43": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -59390,10 +54790,6 @@
 	"45": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -61651,7 +57047,6 @@
 	},
 	"46": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -63442,7 +58837,6 @@
 	},
 	"47": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -65889,7 +61283,6 @@
 	},
 	"48": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -67082,10 +62475,6 @@
 	"49": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -68848,7 +64237,6 @@
 	},
 	"50": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -70946,7 +66334,6 @@
 	},
 	"51": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -74112,8 +69499,6 @@
 	"52": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Cod",
 			"Crow",
@@ -76056,8 +71441,6 @@
 	"53": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootWolf",
 			"Bear",
 			"Crow",
 			"Penguin",
@@ -89326,9 +84709,6 @@
 	"60": {
 		"animals": [
 			"AAW Pig",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
 			"Bee",
 			"Cobra",
 			"Cow",
@@ -94669,8 +90049,6 @@
 	"64": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -103217,10 +98595,6 @@
 	"67": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Bee",
 			"Chicken",
@@ -104775,7 +100149,6 @@
 	},
 	"68": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Bee",
 			"Catfish",
@@ -106707,7 +102080,6 @@
 	},
 	"69": {
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -117734,10 +113106,6 @@
 	"73": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -122156,10 +117524,6 @@
 	"74": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -129780,9 +125144,6 @@
 	"76": {
 		"animals": [
 			"AAW Pig",
-			"AB LootGiraffe",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -136050,10 +131411,6 @@
 	"80": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -138706,10 +134063,6 @@
 	"82": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -140017,7 +135370,6 @@
 	},
 	"83": {
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -145157,11 +140509,6 @@
 	"85": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Catfish",
 			"Chicken",
@@ -146485,10 +141832,6 @@
 	"86": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Cobra",
@@ -151819,12 +147162,6 @@
 	"88": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -162399,11 +157736,6 @@
 	"93": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -170351,10 +165683,6 @@
 	"96": {
 		"animals": [
 			"AAW Pig",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -174207,10 +169535,6 @@
 	"97": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -176315,10 +171639,6 @@
 	"98": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -178634,11 +173954,6 @@
 	"99": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -180476,8 +175791,6 @@
 	"100": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Crocodile",
@@ -181747,9 +177060,6 @@
 	"101": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Crocodile",
@@ -182787,9 +178097,6 @@
 	"102": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
 			"Chicken",
 			"Cobra",
 			"Crocodile",
@@ -184306,10 +179613,6 @@
 	"103": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -192478,7 +187781,6 @@
 	},
 	"107": {
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -193789,10 +189091,6 @@
 	"108": {
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Chicken",
 			"Cobra",
@@ -195225,11 +190523,6 @@
 	"109": {
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cow",
@@ -199110,10 +194403,6 @@
 	"110": {
 		"animals": [
 			"AAW Pig",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Cobra",
 			"Cow",
@@ -201385,7 +196674,7 @@
 			"Mnt_Y_PO"
 		],
 		"worldX": 2552639.75,
-		"worldY": 584339.2
+		"worldY": 584339.25
 	},
 	"118": {
 		"animals": [
@@ -205187,7 +200476,6 @@
 	},
 	"278": {
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Bee",
 			"Chicken",
@@ -206740,5 +202028,2813 @@
 		],
 		"worldX": 5968542.5,
 		"worldY": 760198.8
+	},
+	"280": {
+		"animals": [
+			"AAW Pig",
+			"Bee",
+			"Catfish",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Seagull",
+			"Sheep",
+			"Tiger",
+			"Turtle"
+		],
+		"biomeTags": [
+			"EasternTemperate",
+			"EasternTemperateMountainPeak",
+			"EasternTropics",
+			"EasternTropicsWindy",
+			"Temperate",
+			"Tropical",
+			"Tropics"
+		],
+		"biomes": [
+			{
+				"gps": [
+					-25.899044036865234,
+					-68.7644271850586
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.04319190979004,
+					-68.36213684082031
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.189884185791016,
+					-67.96162414550781
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.302221298217773,
+					-68.90892791748047
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.334930419921875,
+					-67.55696105957031
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.446399688720703,
+					-68.50663757324219
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.47971534729004,
+					-67.15293884277344
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.59309196472168,
+					-68.10614776611328
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.624786376953125,
+					-66.74824523925781
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.706043243408203,
+					-69.05365753173828
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.738128662109375,
+					-67.70146179199219
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.8502140045166,
+					-68.65137481689453
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.882923126220703,
+					-67.29745483398438
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-26.99691390991211,
+					-68.25086975097656
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.027965545654297,
+					-66.89274597167969
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.106842041015625,
+					-69.19729614257812
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.141942977905273,
+					-67.84618377685547
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.172529220581055,
+					-66.48953247070312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.25102996826172,
+					-68.79501342773438
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.2867431640625,
+					-67.44216918945312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.31732749938965,
+					-66.08552551269531
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.394920349121094,
+					-68.39351654052734
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.431785583496094,
+					-67.03746795654297
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.509349822998047,
+					-69.34156036376953
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.540891647338867,
+					-67.98621368408203
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.576356887817383,
+					-66.6342544555664
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.653526306152344,
+					-68.93927001953125
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.686315536499023,
+					-67.5781021118164
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-27.721141815185547,
+					-66.23025512695312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.797428131103516,
+					-68.53775787353516
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.831342697143555,
+					-67.17341613769531
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-27.866193771362305,
+					-65.82554626464844
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.914562225341797,
+					-69.47968292236328
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.94339370727539,
+					-68.1304702758789
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-27.97616958618164,
+					-66.76941680908203
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.00534439086914,
+					-65.41517639160156
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.059005737304688,
+					-69.07682800292969
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.089529037475586,
+					-67.72339630126953
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.120729446411133,
+					-66.36605834960938
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.20293617248535,
+					-68.67395782470703
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.234100341796875,
+					-67.31999969482422
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.26491355895996,
+					-65.9637451171875
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.314956665039062,
+					-69.63034057617188
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.347379684448242,
+					-68.27110290527344
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.378793716430664,
+					-66.91629791259766
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.40959358215332,
+					-65.56005859375
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.462114334106445,
+					-69.22268676757812
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.492027282714844,
+					-67.8676528930664
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.523513793945312,
+					-66.5124740600586
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.606287002563477,
+					-68.81958770751953
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.636608123779297,
+					-67.4642562866211
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.667556762695312,
+					-66.10810089111328
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.665143966674805,
+					-67.70716857910156
+				],
+				"name": "Eastern Temperate Mountain Peak",
+				"tags": [
+					"Temperate",
+					"EasternTemperate",
+					"EasternTemperateMountainPeak"
+				],
+				"temp": [
+					-9,
+					32
+				]
+			},
+			{
+				"gps": [
+					-28.717458724975586,
+					-69.77459716796875
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.7509708404541,
+					-68.4158706665039
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.781291961669922,
+					-67.06053924560547
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.811370849609375,
+					-65.70684051513672
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.864315032958984,
+					-69.37254333496094
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-28.895700454711914,
+					-68.01203918457031
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-28.926021575927734,
+					-66.65672302246094
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.009342193603516,
+					-68.96804809570312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.03704261779785,
+					-67.60749816894531
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.068756103515625,
+					-66.25194549560547
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.121627807617188,
+					-69.91951751708984
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.14780044555664,
+					-68.56358337402344
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.185014724731445,
+					-67.20462799072266
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.21256446838379,
+					-65.8506851196289
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.266813278198242,
+					-69.51679992675781
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.292757034301758,
+					-68.15911865234375
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.329242706298828,
+					-66.79930114746094
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.356971740722656,
+					-65.44776153564453
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.41184425354004,
+					-69.1123046875
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.4378719329834,
+					-67.75447082519531
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.472557067871094,
+					-66.396728515625
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.525327682495117,
+					-70.06425476074219
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.560352325439453,
+					-68.69684600830078
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.586755752563477,
+					-67.35091400146484
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.616365432739258,
+					-65.99547576904297
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.670507431030273,
+					-69.66154479980469
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.7025089263916,
+					-68.30154418945312
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.732973098754883,
+					-66.94522857666016
+				],
+				"name": "Eastern Temperate",
+				"tags": [
+					"Temperate",
+					"EasternTemperate"
+				],
+				"temp": [
+					-3,
+					38
+				]
+			},
+			{
+				"gps": [
+					-29.815536499023438,
+					-69.25702667236328
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.84708023071289,
+					-67.89813995361328
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.875871658325195,
+					-66.54134368896484
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-29.991764068603516,
+					-67.49443054199219
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.074092864990234,
+					-69.80624389648438
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.138784408569336,
+					-67.09107208251953
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.2191219329834,
+					-69.40174102783203
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.28321647644043,
+					-66.6880874633789
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.394521713256836,
+					-67.63619995117188
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			},
+			{
+				"gps": [
+					-30.539215087890625,
+					-67.23248291015625
+				],
+				"name": "Eastern Tropics",
+				"tags": [
+					"Tropics",
+					"EasternTropics",
+					"EasternTropicsWindy",
+					"Tropical"
+				],
+				"temp": [
+					-3,
+					57
+				]
+			}
+		],
+		"discoveries": [
+			{
+				"lat": -67.7,
+				"long": -28.4,
+				"name": "Arixis Atoll"
+			}
+		],
+		"grid": "B5",
+		"homeServer": false,
+		"id": 280,
+		"isControlPoint": false,
+		"islandHeight": 204000,
+		"islandPoints": 35,
+		"islandWidth": 204000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_M_ET",
+		"region": "",
+		"resources": {
+			"Agate": 18071,
+			"Amethyst": 12,
+			"Anthracite": 52,
+			"Ash": 4948,
+			"Bamboo": 6644,
+			"Bark": 3359,
+			"Basalt": 481,
+			"Blackberry": 2582,
+			"Bone Chips": 1,
+			"Coquina": 18071,
+			"Elderberry": 20057,
+			"Fir": 35,
+			"FreshWater": 3,
+			"Fronds": 4649,
+			"Geode": 481,
+			"Hemp": 281436,
+			"Iron": 18518,
+			"Licorice": 636,
+			"Maps": 24,
+			"Mint": 3381,
+			"Pine": 1265,
+			"Poplar": 50,
+			"Resin": 3359,
+			"Sandstone": 481,
+			"Schisandra": 14630,
+			"Slate": 836,
+			"Straw": 41677,
+			"Syrup": 65,
+			"Twigs": 2939
+		},
+		"rotation": -19.7211647,
+		"sublevels": [
+			"Mnt_M",
+			"Mnt_M_Far_03",
+			"Mnt_M_Farthest_03",
+			"Mnt_M_Near_03",
+			"Mnt_M_Marine_Cold_Near"
+		],
+		"worldX": 2504260,
+		"worldY": 5865361
+	},
+	"281": {
+		"animals": [
+			"AAW Pig",
+			"Bear",
+			"Crow",
+			"Penguin",
+			"Rabbit",
+			"Seagull",
+			"Wolf",
+			"Yeti"
+		],
+		"biomeTags": [
+			"Polar",
+			"PolarFrigid",
+			"PolarWindy"
+		],
+		"biomes": [
+			{
+				"gps": [
+					-46.4463996887207,
+					-88.00831604003906
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-46.757713317871094,
+					-91.48611450195312
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-46.82780075073242,
+					-86.71431732177734
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.05751419067383,
+					-92.25785827636719
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.3494873046875,
+					-85.04525756835938
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58082962036133,
+					-85.80260467529297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58085632324219,
+					-86.65342712402344
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58088684082031,
+					-87.51168823242188
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58082962036133,
+					-88.36811065673828
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58085632324219,
+					-89.22637176513672
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.5807991027832,
+					-90.08305358886719
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.58082962036133,
+					-90.94131469726562
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-47.5807991027832,
+					-91.79376983642578
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-48.432029724121094,
+					-85.80113983154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-48.43205642700195,
+					-86.65339660644531
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-48.43208312988281,
+					-87.51165771484375
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-48.43211364746094,
+					-88.36666107177734
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-48.43211364746094,
+					-89.21954345703125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-48.42900085449219,
+					-90.07634735107422
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-48.42897033691406,
+					-90.9333724975586
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-48.4425163269043,
+					-91.7938003540039
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.28654479980469,
+					-85.80377197265625
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.28657150268555,
+					-86.6560287475586
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.29100036621094,
+					-87.51162719726562
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.29103088378906,
+					-88.36663055419922
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.29103088378906,
+					-89.21951293945312
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-49.28791427612305,
+					-90.0763168334961
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-49.28788375854492,
+					-90.93334197998047
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-49.29191589355469,
+					-91.7938003540039
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-49.892799377441406,
+					-85.04522705078125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.138916015625,
+					-85.80380249023438
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.13894271850586,
+					-86.65605926513672
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.138973236083984,
+					-87.50928497314453
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.142852783203125,
+					-88.3666000366211
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.142852783203125,
+					-89.21949005126953
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-50.14625930786133,
+					-90.07628631591797
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-50.1462287902832,
+					-90.93331909179688
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-50.153629302978516,
+					-91.79383087158203
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.2164306640625,
+					-88.72863006591797
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarFrigid"
+				],
+				"temp": [
+					-43,
+					5
+				]
+			},
+			{
+				"gps": [
+					-50.99319839477539,
+					-85.8038330078125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.993228912353516,
+					-86.65608978271484
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.99325942993164,
+					-87.50931549072266
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.9938850402832,
+					-88.36666107177734
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-50.9938850402832,
+					-89.21954345703125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-50.99585723876953,
+					-90.07625579833984
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-50.995826721191406,
+					-90.93328857421875
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-51.00928497314453,
+					-91.79383087158203
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.07805633544922,
+					-85.04520416259766
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.65842819213867,
+					-84.86048889160156
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.846282958984375,
+					-85.81371307373047
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.8463134765625,
+					-86.66693878173828
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.84919738769531,
+					-87.5171127319336
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.84922790527344,
+					-88.36668395996094
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-51.84922790527344,
+					-89.21957397460938
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-51.84919738769531,
+					-90.07622528076172
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-51.84916687011719,
+					-90.93325805664062
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar"
+				],
+				"temp": [
+					-26,
+					19
+				]
+			},
+			{
+				"gps": [
+					-51.871002197265625,
+					-91.79386138916016
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.69866180419922,
+					-85.8137435913086
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.69868469238281,
+					-86.6669692993164
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.701568603515625,
+					-87.51714324951172
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.70159912109375,
+					-88.36671447753906
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.701515197753906,
+					-89.22488403320312
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.70154571533203,
+					-90.07505798339844
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.701568603515625,
+					-90.92462921142578
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-52.7244873046875,
+					-91.79388427734375
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.55294418334961,
+					-85.81377410888672
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.552974700927734,
+					-86.66699981689453
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.553260803222656,
+					-89.22491455078125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.55328369140625,
+					-90.07508850097656
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.553314208984375,
+					-90.9246597290039
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-53.6609992980957,
+					-92.50022888183594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-54.05662536621094,
+					-85.1563720703125
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-54.27622985839844,
+					-87.45588684082031
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-54.65679931640625,
+					-90.84365844726562
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			}
+		],
+		"discoveries": [
+			{
+				"lat": -88.6,
+				"long": -50,
+				"name": "Cypress Island"
+			}
+		],
+		"grid": "B5",
+		"homeServer": false,
+		"id": 281,
+		"isControlPoint": false,
+		"islandHeight": 306000,
+		"islandPoints": 57,
+		"islandWidth": 306000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_Y_CP_C",
+		"region": "",
+		"resources": {
+			"Basalt": 8199,
+			"Calcite": 1075,
+			"Cobalt": 2406,
+			"Geode": 3885,
+			"Iron": 3061,
+			"Limestone": 824,
+			"Maps": 45,
+			"Pine": 185,
+			"Quartz": 824,
+			"Roots": 185,
+			"Sandstone": 7044,
+			"Tellurite": 692,
+			"Tin": 4544
+		},
+		"rotation": 0,
+		"sublevels": [
+			"Mnt_Y_Far_08C",
+			"Mnt_Y_Farthest_08C",
+			"Mnt_Y_Near_08C",
+			"Mnt_Y_Marine_Cold_Near",
+			"Mnt_Y_PO"
+		],
+		"worldX": 1737268,
+		"worldY": 6605310
 	}
 }

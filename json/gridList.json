@@ -32,7 +32,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"EndBoss",
 			"Eastern Tropics",
 			"Equatorial Ocean Water",
 			"Equatorial At Land"
@@ -82,7 +81,6 @@
 		"serverCustomDatas1": ",DisableClaimFlags,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,DisableFog,DisableHeatCold,DisableRain,RainIntervalMultiplier",
 		"serverCustomDatas2": ",1,2,2,3,1,1,1,1,0.36",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "EndBoss",
 		"sotd": {
 			"levelLerp": 3,
 			"levelMinOveride": 0,
@@ -121,7 +119,6 @@
 			-1
 		],
 		"animals": [
-			"AAW Pig",
 			"Anglerfish",
 			"Ant",
 			"Bear",
@@ -164,7 +161,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Tropical",
 			"Equator",
 			"Western Temperate",
 			"Tropical Ocean Water",
@@ -231,13 +227,12 @@
 			"Wild Pepper"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,ChanceForCold,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0,0",
+		"serverCustomDatas2": ",2,2,2,1,0,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Tropical",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -298,7 +293,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"High Desert",
 			"Central High Desert",
 			"Central Low Desert",
 			"Desert Ocean Water",
@@ -368,13 +362,12 @@
 			"Yarrow"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,DisableFog,DisableRain,ChanceForCold",
-		"serverCustomDatas2": ",2,2,3,1,1,1,0",
+		"serverCustomDatas2": ",2,2,2,1,1,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "High Desert",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -410,13 +403,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRhino",
-			"AB LootShark",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Anglerfish",
 			"Ant",
 			"Catfish",
@@ -455,7 +441,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Temperate",
 			"Central Low Desert",
 			"Temperate Ocean Water",
 			"Temperate At Land",
@@ -537,13 +522,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.5,0.1",
+		"serverCustomDatas2": ",2,2,2,1,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Temperate",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -579,12 +563,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRazortooth",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Boss Buwaya",
 			"Boss FireElemental",
@@ -621,7 +599,6 @@
 			null
 		],
 		"biomes": [
-			"High Desert",
 			"Central High Desert",
 			"Central Low Desert",
 			"Equator",
@@ -696,11 +673,10 @@
 			"Wild Cactus"
 		],
 		"serverCustomDatas1": ",DisableClaimFlags,NPCShipDifficultyMult,NPCShipDifficultyLerp,SunkenTreasureQuantityMultiplier,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold",
-		"serverCustomDatas2": ",1,8,1,4,4,1,1,0",
+		"serverCustomDatas2": ",1,1.5,1,4,4,1,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "High Desert",
 		"sotd": {
-			"levelLerp": 8,
+			"levelLerp": 1.5,
 			"levelMinOveride": 0,
 			"levelMultiplier": 1,
 			"levelOffset": 0,
@@ -768,7 +744,6 @@
 			"Yeti"
 		],
 		"biomes": [
-			"Western Tundra",
 			"Eastern Tundra",
 			"Polar",
 			"Tundra Ocean Water",
@@ -837,13 +812,12 @@
 			"Yarrow"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Tundra",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -908,7 +882,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Tropical",
 			"Equator",
 			"Eastern Tropics",
 			"Tropical Ocean Water",
@@ -975,13 +948,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,SunkenTreasureQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,ChanceForCold,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0,0",
+		"serverCustomDatas2": ",2,2,2,1,0,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Tropical",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1060,7 +1032,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
 			"Western Tropics",
 			"Equator",
 			"Western Temperate",
@@ -1151,13 +1122,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0.4",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1193,13 +1163,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -1228,7 +1191,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Western Temperate",
 			"Eastern Temperate",
 			"Equator",
 			"Temperate Ocean Water",
@@ -1307,13 +1269,12 @@
 			"Wild Onion"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.5,0.1",
+		"serverCustomDatas2": ",2,2,2,1,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Temperate",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1349,21 +1310,14 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRhino",
-			"AB LootShark",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Anglerfish",
 			"Ant",
 			"Bear",
+			"Bee",
 			"Catfish",
 			"Chicken",
 			"Cobra",
+			"Cod",
 			"Cow",
 			"Crab",
 			"Crocodile",
@@ -1402,9 +1356,10 @@
 			"Yeti"
 		],
 		"biomes": [
-			"Western Temperate",
-			"Western Tropics",
+			"Eastern Tropics",
+			"Eastern Temperate",
 			"Equator",
+			"Eastern Temperate Mountain Peak",
 			"Temperate Ocean Water",
 			"Temperate At Land",
 			"Polar",
@@ -1422,14 +1377,15 @@
 		"name": "B5 Tortugar",
 		"region": "",
 		"resources": [
-			"Acai",
 			"Acerola",
 			"Agate",
-			"Aloe",
+			"Amethyst",
+			"Anthracite",
+			"Ash",
+			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Basil",
-			"Bean Seed",
 			"Beet Seed",
 			"Bilberry",
 			"Blackberry",
@@ -1439,11 +1395,9 @@
 			"Calcite",
 			"Chert",
 			"Chickpea Seed",
-			"Cilantro",
 			"Cobalt",
-			"Coconut",
+			"Coquina",
 			"Cotton",
-			"Crude Oil",
 			"Elderberry",
 			"Fir",
 			"Fire Coral",
@@ -1451,22 +1405,21 @@
 			"FreshWater",
 			"Fronds",
 			"Geode",
-			"Granite",
 			"Gum",
 			"Hemp",
 			"Herkimer",
-			"Honey",
 			"Iodine",
 			"Iridium",
 			"Iron",
 			"Jute",
+			"Licorice",
 			"Lime",
 			"Limestone",
 			"Maize Seed",
 			"Maps",
 			"Marble",
 			"Mineral Oil",
-			"Nitre",
+			"Mint",
 			"Oak",
 			"Onion Seed",
 			"Oregano",
@@ -1474,7 +1427,6 @@
 			"Pine",
 			"Poplar",
 			"Quartz",
-			"Radiolarite",
 			"Resin",
 			"Roots",
 			"Rushes",
@@ -1486,11 +1438,11 @@
 			"Slate",
 			"Straw",
 			"Sulfur",
+			"Syrup",
 			"Tellurite",
 			"Thyme",
 			"Tin",
 			"Twigs",
-			"Wild Beans",
 			"Wild Beet",
 			"Wild Cactus",
 			"Wild Chick Peas",
@@ -1499,11 +1451,10 @@
 			"Yarrow"
 		],
 		"serverCustomDatas1": ",DisableClaimFlags,NPCShipDifficultyMult,NPCShipDifficultyLerp,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1,6,1,3,3,0.5,0.1",
+		"serverCustomDatas2": ",1,1.5,1,3,3,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Western Temperate",
 		"sotd": {
-			"levelLerp": 6,
+			"levelLerp": 1.5,
 			"levelMinOveride": 0,
 			"levelMultiplier": 1,
 			"levelOffset": 0,
@@ -1540,7 +1491,6 @@
 			-1
 		],
 		"animals": [
-			"AAW Pig",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -1560,11 +1510,11 @@
 			"Yeti"
 		],
 		"biomes": [
-			"Polar",
 			"Polar Ocean Water",
 			"Eastern Tundra",
 			"Polar At Land",
 			"Eastern Temperate",
+			"Polar",
 			"Eastern Temperate Mountain Peak"
 		],
 		"flotsam": {
@@ -1626,13 +1576,12 @@
 			"Wild Turnip"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,ChanceForCold,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",2,2,3,1,1,0,1",
+		"serverCustomDatas2": ",2,2,2,1,1,0,1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Polar",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1710,7 +1659,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
 			"Equatorial Ocean Water",
 			"Equator",
 			"Equatorial At Land",
@@ -1786,13 +1734,12 @@
 			"Wild Pepper"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0.4",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1846,7 +1793,6 @@
 			"Turtle"
 		],
 		"biomes": [
-			"Equatorial",
 			"Eastern Tropics",
 			"Equatorial Ocean Water",
 			"Equatorial At Land",
@@ -1884,13 +1830,12 @@
 			"Wood"
 		],
 		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,DisableClaimFlag,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1,1,2,2,1,0.36,0.4",
+		"serverCustomDatas2": ",0.5,1,2,2,1,0.36,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 1,
+			"levelMultiplier": 0.5,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -1926,15 +1871,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRhino",
-			"AB LootShark",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Anglerfish",
 			"Ant",
 			"Bear",
@@ -1979,7 +1915,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
 			"Equatorial Ocean Water",
 			"Western Temperate",
 			"Equatorial At Land",
@@ -2074,13 +2009,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0.4",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2116,10 +2050,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootWolf",
 			"Bear",
 			"Chicken",
 			"Cobra",
@@ -2140,7 +2070,6 @@
 			"Yeti"
 		],
 		"biomes": [
-			"Central Tundra",
 			"Tundra Ocean Water",
 			"Tundra At Land",
 			"Eastern Tundra",
@@ -2192,13 +2121,12 @@
 			"Wild Turnip"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0.36,0.4,0.4",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0.36,0.4,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Central Tundra",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2262,8 +2190,8 @@
 			"Yeti"
 		],
 		"biomes": [
-			"Eastern Tundra",
 			"Polar",
+			"Eastern Tundra",
 			"Tundra At Land",
 			"Ocean Water"
 		],
@@ -2320,13 +2248,12 @@
 			"Wild Turnip"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",2,2,3,1,0.36,.5",
+		"serverCustomDatas2": ",2,2,2,1,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Tundra",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2394,7 +2321,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Eastern Tropical",
 			"Western Tropics",
 			"Eastern Tropics",
 			"Equator",
@@ -2470,13 +2396,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,.ChanceForCold,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0,0.36,0.2",
+		"serverCustomDatas2": ",2,2,2,1,0,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Tropical",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2548,7 +2473,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Equatorial",
 			"Equator",
 			"Western Tropics",
 			"Equatorial At Land",
@@ -2628,13 +2552,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0.36,0.4",
+		"serverCustomDatas2": ",2,2,2,1,0.36,0.4",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Equatorial",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2670,13 +2593,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -2797,13 +2713,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0",
+		"serverCustomDatas2": ",2,2,2,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Temperate",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -2839,12 +2754,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRhino",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Chicken",
@@ -2871,7 +2780,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Eastern Temperate",
 			"Eastern Tropics",
 			"Temperate At Land",
 			"Temperate Ocean Water",
@@ -2931,9 +2839,8 @@
 			"Yarrow"
 		],
 		"serverCustomDatas1": ",DisableClaimFlags,NPCShipSpawnIntervalMult,NPCShipNumMult,NPCShipDifficultyLerp,NPCShipDifficultyMult,RainChanceForCyclones",
-		"serverCustomDatas2": ",1,0.25,1.5,1,9,0",
+		"serverCustomDatas2": ",1,0.25,1.5,1,3,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Temperate",
 		"sotd": {
 			"levelLerp": 1.5,
 			"levelMinOveride": 0,
@@ -2972,7 +2879,6 @@
 			-1
 		],
 		"animals": [
-			"AAW Pig",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -3000,7 +2906,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Eastern Temperate",
 			"Western Temperate",
 			"Western Tropics",
 			"Equator",
@@ -3085,13 +2990,12 @@
 			"Wild Rice"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0",
+		"serverCustomDatas2": ",2,2,2,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Temperate",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -3154,7 +3058,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Eastern Tropical",
 			"Equator",
 			"Tropical At Land",
 			"Tropical Ocean Water"
@@ -3213,13 +3116,12 @@
 			"Wild Chick Peas"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,.ChanceForCold,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0,0.36,0.2",
+		"serverCustomDatas2": ",2,2,2,1,0,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Tropical",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -3255,13 +3157,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRhino",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Catfish",
 			"Chicken",
@@ -3293,7 +3188,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"High Desert",
 			"Equator",
 			"Central Low Desert",
 			"Desert At Land",
@@ -3371,13 +3265,12 @@
 			"Yarrow"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,DisableFog,DisableRain,ChanceForCold",
-		"serverCustomDatas2": ",2,2,3,1,1,1,0",
+		"serverCustomDatas2": ",2,2,2,1,1,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "High Desert",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -3413,12 +3306,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootElephant",
-			"AB LootGiraffe",
-			"AB LootPig",
-			"AB LootTiger",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Catfish",
@@ -3446,7 +3333,6 @@
 			"Wolf"
 		],
 		"biomes": [
-			"Eastern Temperate",
 			"Equator",
 			"Temperate At Land",
 			"Temperate Ocean Water",
@@ -3513,13 +3399,12 @@
 			"Wild Chick Peas"
 		],
 		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,3,1,0",
+		"serverCustomDatas2": ",2,2,2,1,0",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Eastern Temperate",
 		"sotd": {
 			"levelLerp": 1,
 			"levelMinOveride": 0,
-			"levelMultiplier": 3,
+			"levelMultiplier": 2,
 			"levelOffset": 0,
 			"spawnLimits": [
 				37,
@@ -3555,11 +3440,6 @@
 		],
 		"animals": [
 			"AAW Pig",
-			"AB LootBear",
-			"AB LootLion",
-			"AB LootPig",
-			"AB LootRazortooth",
-			"AB LootWolf",
 			"Ant",
 			"Bear",
 			"Bee",
@@ -3599,11 +3479,11 @@
 			null
 		],
 		"biomes": [
-			"Polar",
 			"Eastern Temperate",
 			"Eastern Tropics",
 			"Eastern Temperate Mountain Peak",
 			"Western Temperate",
+			"Polar",
 			"Polar At Land",
 			"Polar Ocean Water",
 			"Western Tundra",
@@ -3677,11 +3557,10 @@
 			"Wild Potato"
 		],
 		"serverCustomDatas1": ",DisableClaimFlags,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,ChanceForCold,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,4,4,8,1,1,0,1",
+		"serverCustomDatas2": ",1,4,4,1.5,1,1,0,1",
 		"serverIslandPointsMultiplier": 1,
-		"serverTemplate": "Polar",
 		"sotd": {
-			"levelLerp": 8,
+			"levelLerp": 1.5,
 			"levelMinOveride": 0,
 			"levelMultiplier": 4,
 			"levelOffset": 0,
